@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Bankame - Historial de transferencias</title>
+        <link rel="shortcut icon" href="../images/logo_small1.png">
+    <meta name="viewport" content="width=device-width">
+    <link href="../css/style.css" rel="stylesheet">
+
+    <script type="text/javascript" src="../js/jquery-3.6.0.js"></script>
+    <script type="text/javascript" src="../js/inicio_sesion.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway&family=Roboto&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <div class="group">
+        <div class="img_38"></div>
+        <div class="img_120"></div>
+        <div class="img_26"></div>
+        <div class="img_42"></div>
+        <div class="linea"></div>
+        <a href="../index.html">
+            <div class="logo"></div>
+        </a>
+        <a href="inicio_bienvenido.html">
+            <div id="btninitran" class="inicio">Inicio</div>
+        </a>
+        <a href="informacion_de_cuenta.html">
+            <div class="img_perfil"></div>
+        </a>
+        <a href="ajustes_de_perfil.html">
+            <div class="img_ajustes"></div>
+        </a>
+        <div class="img_prendido"></div>
+        <div class="title_b">Mis transferencias</div>
+        <a href="seleccionar_persona.html">
+            <div class="side_1"></div>
+            <div class="txt_side_1">Hacer transferencia</div>
+            <div class="img_46_b"></div>
+        </a>
+        <a href="historial_de_transferencias.html">
+            <div class="side_2_b"></div>
+            <div class="txt_side_2_h">Historial de transferencias</div>
+            <div class="img_69_b"></div>
+        </a>
+        <div class="rectangulo_35"></div>
+        <div class="txt_1">Historial de transferencias</div>
+        <div class="barra_superior"></div>
+        <div class="cuadro_0_0">Cuenta</div>
+        <div class="cuadro_0_1">Fecha</div>
+        <div class="cuadro_0_2">Usuario</div>
+        <div class="cuadro_0_3">Motivo</div>
+        <div class="cuadro_0_4">Valor</div>
+        <div class="cuadro_1_0">Caja de ahorro</div>
+        <!-- <div class="cuadro_1_1">Caja de ahorro</div>
+        <div class="cuadro_1_2">Caja de ahorro</div>
+        <div class="cuadro_1_3">Caja de ahorro</div>
+        <div class="cuadro_1_4">Caja de ahorro</div> -->
+        <div class="cuadro_2_0">02/11/2021</div>
+        <!-- <div class="cuadro_2_1">17/10/2021</div>
+        <div class="cuadro_2_2">09/09/2021</div>
+        <div class="cuadro_2_3">04/08/2021</div>
+        <div class="cuadro_2_4">31/07/2021</div> -->
+        <div id="usu_des1" class="cuadro_3_0">JoaLobito22</div>
+        <!-- <div class="cuadro_3_1">JoaLobito22</div>
+        <div class="cuadro_3_2">RamonZa9</div>
+        <div class="cuadro_3_3">MrTochu</div>
+        <div class="cuadro_3_4">JoaLobito22</div> -->
+        <div id="motivo_des" class="cuadro_4_0">Comida</div>
+        <!-- <div class="cuadro_4_1">Ropa</div>
+        <div class="cuadro_4_2">Donación</div>
+        <div class="cuadro_4_3">Comida</div>
+        <div class="cuadro_4_4">Desconocido</div> -->
+        <div id="monto1" class="cuadro_5_0">$231</div>
+        <!-- <div class="cuadro_5_1">$20</div>
+        <div class="cuadro_5_2">$12430</div>
+        <div class="cuadro_5_3">$12</div>
+        <div class="cuadro_5_4">$300.43</div> -->
+        <div class="rectangulo_47"></div>
+        <div class="historial_completo">Historial completo</div>
+        <div class="question_mark1"></div>
+    </div>
+
+    <script type="text/javascript">
+        $("#usu_des1").html(localStorage.getItem("usuario_des"));
+        $("#motivo_des").html(localStorage.getItem("motivo"));
+        $("#monto1").html("$"+localStorage.getItem("monto"));
+
+    </script>
+
+</body>
+
+</html>

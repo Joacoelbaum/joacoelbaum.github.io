@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Bankame - Información personal</title>
+        <link rel="shortcut icon" href="../images/logo_small1.png">
+    <meta name="viewport" content="width=device-width">
+    <link href="../css/style.css" rel="stylesheet">
+
+    <script type="text/javascript" src="../js/jquery-3.6.0.js"></script>
+    <script type="text/javascript" src="../js/inicio_sesion.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway&family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="group">
+        <div class="img_38"></div>
+        <div class="img_26"></div>
+        <div class="img_42"></div>
+        <div class="linea"></div>
+        <a href="../index.html">
+            <div class="logo"></div>
+        </a>
+        <a href="inicio_bienvenido.html">
+            <div class="inicio_2">Inicio</div>
+        </a>
+        <a href="">
+            <div class="img_perfil"></div>
+        </a>
+        <div class="linea_ajustes"></div>
+        <a href="ajustes_de_perfil.html">
+            <div class="img_ajustes"></div>
+        </a>
+        <div class="img_prendido"></div>
+        <div class="title_b">Mi Perfil</div>
+        <a href="informacion_de_cuenta.html">
+            <div class="side_1"></div>
+            <div class="txt_side_1">Información de cuenta</div>
+        </a>
+        <a href="">
+            <div class="side_2"></div>
+            <div class="txt_side_2_h">Información personal</div>
+        </a>
+        <a href="informacion_bancaria.html">
+            <div class="side_3"></div>
+            <div class="txt_side_3">Información bancaria</div>
+        </a>
+        <div class="rectangulo_35"></div>
+        <div class="txt_1">Nombre y apellido</div>
+        <div class="textbox_1_d"></div>
+        <div id="nomo" class="txt_transp_1_e">David Perez</div>
+        <div class="img_63_c"></div>
+        <div class="txt_2">DNI</div>
+        <div class="textbox_2"></div>
+        <div id="dnni" class="txt_transp_2">40374682</div>
+        <div class="img_13_b"></div>
+        <div class="txt_3">Fecha de nacimiento</div>
+        <div class="img_65_b"></div>
+        <div class="textbox_3_b"></div>
+        <div id="fecna" class="txt_transp_3_a">18</div>
+        <div class="txt_4">Número de teléfono</div>
+        <div class="textbox_4"></div>
+        <div id="telx" class="txt_transp_4">+54011 3425 7830</div>
+        <div class="img_66_b"></div>
+        <div class="rectangulo_37"></div>
+        <div class="actualizar_informacion_2">Actualizar información</div>
+        <div class="question_mark1"></div>
+    </div>
+
+        <script type="text/javascript">
+        $("#nomo").html(localStorage.getItem("nombre2"));
+        $("#dnni").html(localStorage.getItem("dni2"));
+        $("#fecna").html(localStorage.getItem("fecho2"));
+        $("#telx").html(localStorage.getItem("tele2"));
+    </script>
+
+</body>
+
+</html>

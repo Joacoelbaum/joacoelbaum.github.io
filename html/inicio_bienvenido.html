@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Bankame - Inicio - Bienvenido</title>
+        <link rel="shortcut icon" href="../images/logo_small1.png">
+    <meta name="viewport" content="width=device-width">
+    <link href="../css/style.css" rel="stylesheet">
+
+    <script type="text/javascript" src="../js/jquery-3.6.0.js"></script>
+    <script type="text/javascript" src="../js/inicio_sesion.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway&family=Roboto&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <div class="group">
+        <div class="img_38"></div>
+        <div class="img_114"></div>
+        <div class="img_26"></div>
+        <div class="img_42_c"></div>
+        <a href="../index.html">
+            <div class="logo"></div>
+        </a>
+        <a href="inicio_bienvenido.html">
+            <div class="inicio">Inicio</div>
+        </a>
+            <div id="btndat" class="img_perfil"></div>
+        <a href="ajustes_de_perfil.html">
+            <div class="img_ajustes"></div>
+        </a>
+        <div class="img_prendido"></div>
+        <div id="nombre" class="txt_bienvenido">Bienvenido </div>
+        <div class="subtext_6">Estamos contentos de tenerte por acá!</div>
+        <!-- <div class="img_87"></div> -->
+        <a href="inicio_dia_del_nino.html">
+            <div class="puntitos_1"></div>
+        </a>
+        <div class="txt_accesos_directos">Accesos directos</div>
+        <a href="mis_cuentas.html">
+            <div class="rectangulo_26"></div>
+            <div class="img_45"></div>
+            <div class="txt_mi_billetera">Mi billetera</div>
+        </a>
+        <a href="seleccionar_persona.html">
+            <div class="rectangulo_27"></div>
+            <div class="img_46"></div>
+            <div class="txt_transferencias">Transferencias</div>
+        </a>
+        <!--<a href="selecciona_cuenta_pago.html">
+        <div class="rectangulo_28"></div>
+        <div class="img_47"></div>
+        <div class="txt_pagar_servicios">Pagar servicios</div>
+    </a>-->
+        <a href="seleccionar_cuenta_plazo_fijo.html">
+            <div class="rectangulo_29"></div>
+            <div class="alcannnnn_1"></div>
+            <div class="txt_plazos_fijos">Plazos fijos</div>
+        </a>        
+        <a href="seleccionar_cuenta_prestamo.html">
+            <div class="rectangulo_30"></div>
+            <div class="img_48"></div>
+            <div class="txt_prestamos">Préstamos</div>
+        </a>
+        <div class="linea_blanca"></div>
+        <div class="txt_tus_productos">Tus productos</div>
+        <div class="rectangulo_31"></div>
+        <div class="txt_cuentas">Cuenta</div>
+        <div class="saldos_totales_1">Saldo</div>
+        <div id="dinero" class="dinero_1">$ 2056,34</div>
+        <!--<div class="rectangulo_32"></div>
+        <div class="visa_1">Visa XXXX-5432</div>
+        <div class="saldos_totales_2">Saldos totales</div>
+        <div class="dinero_2">$ 1260,00</div>
+        <div class="logo_visa"></div>
+        <div class="rectangulo_33"></div>
+        <div class="diners_1">Diners XXX-254</div>
+        <div class="saldos_totales_3">Saldos totales</div>
+        <div class="dinero_3">$ 560,34</div>
+        <div class="logo_diners"></div>
+        <div class="rectangulo_34"></div>
+        <div class="txt_pay_pal">Pay-Pal</div>
+        <div class="saldos_totales_4">Saldos totales</div>
+        <div class="dinero_4">$ 236,00</div>
+        <div class="logo_pay_pal"></div>-->
+        <div class="question_mark1"></div>
+    </div>
+    <script type="text/javascript">
+        $("#nombre").html("Bienvenido " + localStorage.getItem("nombre") + "!");
+        $("#dinero").html("$ " + localStorage.getItem("dinero"));
+    </script>
+</body>
+
+</html>

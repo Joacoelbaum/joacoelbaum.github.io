@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Bankame - Búsqueda de persona</title>
+        <link rel="shortcut icon" href="../images/logo_small1.png">
+    <meta name="viewport" content="width=device-width">
+    <link href="../css/style.css" rel="stylesheet">
+
+    <script type="text/javascript" src="../js/jquery-3.6.0.js"></script>
+    <script type="text/javascript" src="../js/inicio_sesion.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway&family=Roboto&display=swap" rel="stylesheet">
+    
+</head>
+<body>
+    <div class="group">
+        <div class="img_38"></div>
+        <div class="img_117_b"></div>
+        <div class="img_26"></div>
+        <div class="img_42"></div>
+        <a href="../index.html">
+            <div class="logo"></div>
+        </a>
+        <a href="inicio_bienvenido.html">
+            <div class="inicio">Inicio</div>
+        </a>
+        <a href="informacion_de_cuenta.html">
+            <div class="img_perfil"></div>
+        </a>
+        <a href="ajustes_de_perfil.html">
+            <div class="img_ajustes"></div>
+        </a>
+        <div class="img_prendido"></div>
+        <div class="title_b">Mis transferencias</div>
+        <div class="txt_cvu_encontrada">Usuario encontrado:</div>
+        <div id="usu_des" class="perfil_encontrado">JoacoLobito22</div>
+        <!--<div class="marco_imagen_perfil_encontrado"></div>-->
+        <div class="imagen_perfil_encontrado"></div>
+        <!--<div class="txt_j">J</div>-->
+        <div class="txt_nombre">Nombre y apellido:</div>
+        <div class="img_121_c"></div>
+        <div class="rectangulo_60"></div>
+        <div id="nom_des" class="nombre_perfil_encontrado">Joaquin Elbaul</div>
+        <div class="txt_cbu">CBU:</div>
+        <div class="img_123"></div>
+        <div class="rectangulo_61"></div>
+        <div id="cbu" class="cbu_encontrada">452386456835737</div>
+        <div class="txt_alias">Alias:</div>
+        <div class="img_122"></div>
+        <div class="rectangulo_62"></div>
+        <div id="alias_des" class="alias_encontrado">1234235423514423</div>
+        <div class="txt_banco">Banco:</div>
+        <div class="img_67_c"></div>
+        <div class="rectangulo_63"></div>
+        <div id="banco_des" class="banco_encontrado">MasterCard</div>
+        <!--<div class="logo_mastercard_small"></div>-->
+        <div class="es_la_cvu_buscada">¿Es la CBU buscada?</div>
+        <a href="seleccionar_cuenta_transferencia.html">
+            <div class="rectangulo_64"></div>
+            <div class="si_es_la_cvu">Sí, es la CBU buscada</div>
+        </a>
+        <a href="seleccionar_persona.html">
+            <div class="rectangulo_65"></div>
+            <div class="no_quiero_regresar_alt">No, quiero regresar</div>
+        </a>
+        <div class="question_mark1"></div>
+    </div>
+
+    <script type="text/javascript">
+        $("#usu_des").html(localStorage.getItem("usuario_des"));
+        $("#nom_des").html(localStorage.getItem("nom_des"));
+        $("#cbu").html(localStorage.getItem("cbu_des"));
+        $("#alias_des").html(localStorage.getItem("alias_des"));
+        $("#banco_des").html(localStorage.getItem("banco_des"));
+    </script>
+
+</body>
+
+</html>

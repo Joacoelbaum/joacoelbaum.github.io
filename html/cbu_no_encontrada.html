@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Bankame - CBU no encontrada</title>
+        <link rel="shortcut icon" href="../images/logo_small1.png">
+    <meta name="viewport" content="width=device-width">
+    <link href="../css/style.css" rel="stylesheet">
+
+    <script type="text/javascript" src="../js/jquery-3.6.0.js"></script>
+    <script type="text/javascript" src="../js/inicio_sesion.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway&family=Roboto&display=swap" rel="stylesheet">
+    
+</head>
+<body>
+    <div class="group">
+        <div class="img_38"></div>
+        <div class="img_117_b"></div>
+        <div class="img_26"></div>
+        <div class="img_42"></div>
+        <a href="../index.html">
+            <div class="logo"></div>
+        </a>
+        <a href="inicio_bienvenido.html">
+            <div class="inicio">Inicio</div>
+        </a>
+        <a href="informacion_de_cuenta.html">
+            <div class="img_perfil"></div>
+        </a>
+        <a href="ajustes_de_perfil.html">
+            <div class="img_ajustes"></div>
+        </a>
+        <div class="img_prendido"></div>
+        <div class="title_b">Mis transferencias</div>
+        <div class="txt_cvu_encontrada">CBU no encontrada:</div>
+        <div class="txt_verifique_cbu">Verifique si el CBU ingresado ha sido el correcto e intente nuevamente</div>
+        <a href="seleccionar_persona.html">
+            <div class="rectangulo_72"></div>
+            <div class="txt_regresar">Regresar</div>
+        </a>
+        <div class="question_mark1"></div>
+    </div>
+
+    <script type="text/javascript">
+        $("#usu_des").html(localStorage.getItem("usuario_des"));
+        $("#nom_des").html(localStorage.getItem("nom_des"));
+        $("#cbu").html(localStorage.getItem("cbu_des"));
+        $("#alias_des").html(localStorage.getItem("alias_des"));
+        $("#banco_des").html(localStorage.getItem("banco_des"));
+    </script>
+
+</body>
+
+</html>

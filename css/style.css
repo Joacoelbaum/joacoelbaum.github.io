@@ -1,0 +1,7584 @@
+body {
+    transform: scale(0.963);
+    transform-origin: 0 0;
+}
+
+input {
+    width: 100%;
+    border: none;
+    outline: none;
+}
+
+input[name="iniciarsesion"] {
+    font-size: 25.8426px;
+    -webkit-text-fill-color: #004072;
+}
+
+input[name="iniciarsesion_2"] {
+    font-size: 21.5567px;
+    -webkit-text-fill-color: #004072;
+}
+
+input[name="registrarse"] {
+    font-size: 21.5567px;
+    -webkit-text-fill-color: #004072;
+}
+
+input[name="fecha"] {
+    font-size: 21.5567px;
+    background: none;
+    -webkit-text-fill-color: #004072;
+}
+
+input[name="telefono"] {
+    font-size: 21.5567px;
+    background: none;
+    -webkit-text-fill-color: #004072;
+}
+
+input[name="mi_perfil"] {
+    font-size: 25.6008px;
+    text-decoration-line: underline;
+    -webkit-text-fill-color: rgba(0, 63, 111, 0.7);
+}
+
+input[name="mis"] {
+    font-size: 17.3056px;
+    text-decoration-line: underline;
+    -webkit-text-fill-color: rgba(0, 63, 111, 0.7);
+}
+
+input::-webkit-input-placeholder {
+    color: #004072;
+}
+
+.group {
+    position: relative;
+    width: 1300px;
+    height: 700px;
+    left: -7.7px;
+    top: -7.7px;
+    background: #FFFFFF;
+}
+
+.group_ind {
+    position: relative;
+    width: 1400px;
+    height: 900px;
+    left: -7.7px;
+    top: -7.7px;
+    background: #FFFFFF;
+}
+
+.logo {
+    position: absolute;
+    width: 314.9px;
+    height: 60.36px;
+    left: 13.51px;
+    top: 25.6px;
+    /*transform: scale(2);*/
+    background-image: url(../images/image_23.png);
+}
+
+.title {
+    position: absolute;
+    width: 387.54px;
+    height: 95.86px;
+    left: 507.05px;
+    top: 192px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 53.9192px;
+    line-height: 63px;
+    text-align: center;
+    color: #004174;
+}
+
+.subtext1 {
+    position: absolute;
+    width: 686.95px;
+    height: 57.6px;
+    left: 357px;
+    top: 288px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34.1343px;
+    line-height: 40px;
+    text-align: center;
+    color: rgba(0, 62, 109, 0.7);
+}
+
+.e1 {
+    position: absolute;
+    width: 186.97px;
+    height: 36.08px;
+    left: 943px;
+    top: 38.8px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 31.4899px;
+    line-height: 37px;
+    /* identical to box height */
+    text-align: center;
+    text-decoration-line: underline;
+    color: #004071;
+}
+
+.rectangulo1 {
+    /* Rectangle 3 */
+    position: absolute;
+    width: 221.12px;
+    height: 60.13px;
+    left: 1157.76px;
+    top: 26px;
+    background: #004171;
+    border-radius: 30.0663px;
+}
+
+.registrarse {
+    /* Registrarse */
+    position: absolute;
+    width: 166.13px;
+    height: 34.34px;
+    left: 1184.79px;
+    top: 38.8px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.rectangulo2 {
+    position: absolute;
+    width: 260.24px;
+    height: 70.77px;
+    left: 570.7px;
+    top: 378.66px;
+    background: #004171;
+    border-radius: 35.3845px;
+}
+
+.acercade {
+    /* Acerca de */
+    position: absolute;
+    width: 211.93px;
+    height: 43.81px;
+    left: 595.04px;
+    top: 391.39px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35.9461px;
+    line-height: 42px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.flecha1 {
+    /* image 31 */
+    position: absolute;
+    width: 125.87px;
+    height: 125.87px;
+    left: /*763.77px*/ 637.9px;
+    top: 494.94px;
+    background: url(../images/image_31.png);
+    /*transform: rotate(90deg);*/
+}
+
+.barra {
+    /* image 24 */
+    position: absolute;
+    width: 1400px;
+    height: 73px;
+    left: 0px;
+    top: /*900px*/ 827px;
+    background: url(../images/image_24.png);
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.aviso_legal {
+    /* Aviso legal */
+    position: absolute;
+    width: 164.27px;
+    height: 31.29px;
+    left: 0px;
+    top: 853.4px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25.6008px;
+    line-height: 30px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.politica_de_privacidad {
+    /* Politica de privacidad */
+
+    position: absolute;
+    width: /*248.9px*/ 270px;
+    height: 31.29px;
+    left: 244.27px;
+    top: 853.4px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25.6008px;
+    line-height: 30px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.configuracion_de_cookies {
+    /* Configuracion de cookies */
+    position: absolute;
+    width: /*297.25px*/ 320px;
+    height: 31.29px;
+    left: 573.17px;
+    top: 853.4px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25.6008px;
+    line-height: 30px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.txt_bankame {
+    /* Bankame */
+    position: absolute;
+    width: 108px;
+    height: 31px;
+    left: 950.42px;
+    top: 854px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25.6008px;
+    line-height: 30px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.logo_instagram {
+    /* image 32 */
+    position: absolute;
+    width: 58.31px;
+    height: 58.31px;
+    left: 1223px;
+    top: 834px;
+    background: url(../images/image_32.png);
+}
+
+.logo_twitter {
+    /* image 33 */
+    position: absolute;
+    width: 58.31px;
+    height: 58.31px;
+    left: 1321.14px;
+    top: 834px;
+    background: url(../images/image_33.png);
+}
+
+.ingresar {
+    /* Ingresar */
+    position: absolute;
+    width: 205.52px;
+    height: 63.29px;
+    left: 247.65px;
+    top: 158px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 51.6852px;
+    line-height: 61px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.group_ace {
+    position: relative;
+    width: /*1024.03px*/ 1400px;
+    height: /*728.2px*/ 700px;
+    left: -7.7px;
+    top: -7.7px;
+    background: #FFFFFF;
+}
+
+.subtext3 {
+    /* Acerca de Bankame */
+    position: absolute;
+    width: 466px;
+    height: 84px;
+    left: 467px;
+    top: 132px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.subtext4 {
+    /* Bankame se trata de una página web que imita el comportamiento de un Home Banking/billetera virtual, pero que poseerá un diseño totalmente inclusivo, accesible y fácil de usar para todo el mundo */
+    position: absolute;
+    width: 743px;
+    height: 55px;
+    left: 330px;
+    top: 198px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #E5E5E5;
+}
+
+.image_53 {
+    position: absolute;
+    width: 405.04px;
+    height: 272px;
+    left: 562px;
+    top: 243px;
+    background: url(../images/image_53.png);
+}
+
+.image_54 {
+    /* image 54 */
+    position: absolute;
+    width: 712px;
+    height: 400px;
+    left: 688px;
+    top: 400px;
+    background: url(../images/image_54.png);
+}
+
+.question_mark1 {
+    /* image 55 */
+    position: absolute;
+    width: 47.65px;
+    height: 47.65px;
+    left: 1343.04px;
+    top: 746px;
+    background: url(../images/image_55.png);
+}
+
+.barra_lateral_izquierda {
+    /* image 26 */
+    position: absolute;
+    width: 700px;
+    height: 801px;
+    left: 0px;
+    top: /*800px*/ 0px;
+    background: url(../images/image_26.png);
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.logo_alt1 {
+    position: absolute;
+    width: 98.85px;
+    height: 98.85px;
+    left: 15.65px;
+    top: 11.38px;
+    background: url(../images/logo_small_icon_only_1.png);
+}
+
+.rectangulo3 {
+    /* Rectangle 5 */
+    position: absolute;
+    width: 364.81px;
+    height: 83.91px;
+    left: 168px;
+    top: 280.31px;
+    border: 5.38387px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 50.8776px;
+}
+
+.rectangulo4 {
+    /* Rectangle 6 */
+    position: absolute;
+    width: 364.81px;
+    height: 83.91px;
+    left: 168px;
+    top: 395.52px;
+    border: 5.38387px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 50.8776px;
+}
+
+.acceder1 {
+    /* Acceder con Facebook */
+    position: absolute;
+    width: 275.21px;
+    height: 16.36px;
+    left: 257.6px;
+    top: 308.05px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.8426px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.acceder2 {
+    /* Acceder con Gmail */
+    position: absolute;
+    width: 260.99px;
+    height: 16.36px;
+    left: 257.6px;
+    top: 423.25px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.8426px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.logo_facebook {
+    /* image 28 */
+    position: absolute;
+    width: 63.53px;
+    height: 63.53px;
+    left: 185.07px;
+    top: 290.27px;
+    background: url(../images/image_28.png);
+}
+
+.logo_gmail {
+    /* image 30 */
+    position: absolute;
+    width: 63.53px;
+    height: 35.74px;
+    left: 185.07px;
+    top: 418.27px;
+    background: url(../images/image_30.png);
+}
+
+.rectangulo5 {
+    /* Rectangle 7 */
+    position: absolute;
+    width: 435.56px;
+    height: 398.95px;
+    left: 832px;
+    top: 149px;
+    background: #FFFFFF;
+    border: 5.38387px solid #003F70;
+    box-sizing: border-box;
+    border-radius: 48.4549px;
+}
+
+.rectangulo6 {
+    /* Rectangle 9 */
+    position: absolute;
+    width: 322.49px;
+    height: 83.99px;
+    left: 887.47px;
+    top: 183.85px;
+    border: 5.38387px solid #003F70;
+    box-sizing: border-box;
+    border-radius: 50.8776px;
+}
+
+.img_2 {
+    /* image 35 */
+    position: absolute;
+    width: 63.53px;
+    height: 58.15px;
+    left: 910.08px;
+    top: 196.77px;
+    background: url(../images/image_2.png);
+}
+
+.txt_usuario {
+    /* Usuario... */
+    position: absolute;
+    width: /*109.83px*/ 194px;
+    height: 16.69px;
+    left: 973.61px;
+    top: 209.15px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.8426px;
+    line-height: 30px;
+    color: #004072;
+}
+
+.rectangulo7 {
+    /* Rectangle 10 */
+    position: absolute;
+    width: 322.49px;
+    height: 83.99px;
+    left: 887.47px;
+    top: 294.07px;
+    border: 5.38387px solid #003F70;
+    box-sizing: border-box;
+    border-radius: 50.8776px;
+}
+
+.img_3 {
+    /* image 36 */
+    position: absolute;
+    width: 63.9px;
+    height: 58.15px;
+    left: 909.54px;
+    top: 306.99px;
+    background: url(../images/image_3.png);
+}
+
+.txt_contrasena {
+    /* Contraseña... */
+    position: absolute;
+    width: /*188.44px*/ 193px;
+    height: 16.69px;
+    left: 973.61px;
+    top: 319.38px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.8426px;
+    line-height: 30px;
+    color: #004072;
+}
+
+.rectangulo8 {
+    /* Rectangle 8 */
+    position: absolute;
+    width: 167.59px;
+    height: 45.58px;
+    left: 964.98px;
+    top: 404.3px;
+    border: 2.41142px solid #003F70;
+    box-sizing: border-box;
+    border-radius: 22.7879px;
+}
+
+.e2 {
+    /* Iniciar sesion */
+    position: absolute;
+    width: 136.49px;
+    height: 28.21px;
+    left: 980.41px;
+    top: 412.98px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23.1496px;
+    line-height: 27px;
+    text-align: center;
+    color: #004072;
+}
+
+.txt_he_olvidado {
+    /* He olvidado mi contraseña */
+    position: absolute;
+    width: 275.65px;
+    height: 19.92px;
+    left: 911.14px;
+    top: 479.57px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19.3819px;
+    line-height: 23px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #003E6E;
+}
+
+.txt_crear_cuenta {
+    /* Crear cuenta */
+    position: absolute;
+    width: 275.65px;
+    height: 19.92px;
+    left: 911.14px;
+    top: 511.87px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19.3819px;
+    line-height: 23px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #003E6E;
+}
+
+.registrarse_2 {
+    /* Registrarse */
+    position: absolute;
+    width: 272.36px;
+    height: 63.29px;
+    left: 213.56px;
+    top: 154px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 51.6852px;
+    line-height: 61px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.bankame_es {
+    /* Bankame es el primer home banking inclusivo */
+    position: absolute;
+    width: 395.39px;
+    height: 118.76px;
+    left: 151.69px;
+    top: 217.29px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34.1343px;
+    line-height: 40px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.img_4 {
+    /* compu lol 1 */
+    position: absolute;
+    width: 407.48px;
+    height: 305.79px;
+    left: 146px;
+    top: 339.61px;
+    background: url(../images/compu_lol_1.png);
+}
+
+.rectangulo_9 {
+    /* Rectangle 1 */
+    position: absolute;
+    width: 435.21px;
+    height: 579.57px;
+    left: 832px;
+    top: 94px;
+    background: #FFFFFF;
+    border: 5.38387px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 48.4549px;
+}
+
+.rectangulo_10 {
+    /* Rectangle 3 */
+    position: absolute;
+    width: 269.01px;
+    height: 70.06px;
+    left: 915.2px;
+    top: 128.85px;
+    border: 4.49098px solid #003F70;
+    box-sizing: border-box;
+    border-radius: 42.4397px;
+}
+
+.img_2_b {
+    /* image 2 */
+    position: absolute;
+    width: 52.99px;
+    height: 48.5px;
+    left: 934.06px;
+    top: 139.62px;
+    background: url(../images/image_2.png);
+}
+
+.txt_usuario_2 {
+    /* Usuario... */
+    position: absolute;
+    width: /*91.62px*/ 180px;
+    height: 13.92px;
+    left: 987.06px;
+    top: 149.95px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21.5567px;
+    line-height: 25px;
+    color: #004072;
+}
+
+.rectangulo_11 {
+    /* Rectangle 4 */
+    position: absolute;
+    width: 269.01px;
+    height: 70.06px;
+    left: 915.2px;
+    top: 220.79px;
+    border: 4.49098px solid #003F70;
+    box-sizing: border-box;
+    border-radius: 42.4397px;
+}
+
+.img_5 {
+    /* image 5 */
+    position: absolute;
+    width: 46.37px;
+    height: 42.12px;
+    left: 933.59px;
+    top: 235.03px;
+    background: url(../images/image_5.png);
+}
+
+.txt_email {
+    /* Email... */
+    position: absolute;
+    width: /*157.18px*/ 180px;
+    height: 13.92px;
+    left: 987.06px;
+    top: 241.9px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21.5567px;
+    line-height: 25px;
+    color: #004072;
+}
+
+.rectangulo_12 {
+    /* Rectangle 5 */
+    position: absolute;
+    width: 269.01px;
+    height: 70.06px;
+    left: 915.2px;
+    top: 312.74px;
+    border: 4.49098px solid #003F70;
+    box-sizing: border-box;
+    border-radius: 42.4397px;
+}
+
+.img_63 {
+    /* image 63 */
+    position: absolute;
+    width: 46.99px;
+    height: 46.99px;
+    left: 932.53px;
+    top: 323.95px;
+    background: url(../images/image_63.png);
+}
+
+.txt_nom_ape {
+    /* Nombre y apellido... */
+    position: absolute;
+    width: /*196.98px*/ 180px;
+    height: 13.51px;
+    left: 985.23px;
+    top: 332.83px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21.5567px;
+    line-height: 25px;
+    color: #004072;
+}
+
+.rectangulo_13 {
+    /* Rectangle 6 */
+    position: absolute;
+    width: 269.01px;
+    height: 70.06px;
+    left: 915.2px;
+    top: 404.76px;
+    border: 4.49098px solid #003F70;
+    box-sizing: border-box;
+    border-radius: 42.4397px;
+}
+
+.img_13 {
+    /* image 13 */
+    position: absolute;
+    width: 45.51px;
+    height: 52.89px;
+    left: 935.83px;
+    top: 413.3px;
+    background: url(../images/image_13.png);
+}
+
+.txt_dni {
+    /* DNI... */
+    position: absolute;
+    width: /*196.98px*/ 180px;
+    height: 13.51px;
+    left: 987.03px;
+    top: 426.1px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21.5567px;
+    line-height: 25px;
+    color: #004072;
+}
+
+.rectangulo_14 {
+    /* Rectangle 7 */
+    position: absolute;
+    width: 269.01px;
+    height: 70.06px;
+    left: 915.2px;
+    top: 496.5px;
+    border: 4.49098px solid #003F70;
+    box-sizing: border-box;
+    border-radius: 42.4397px;
+}
+
+.img_3_b {
+    /* image 35 */
+    position: absolute;
+    width: 53.3px;
+    height: 48.5px;
+    left: 932.27px;
+    top: 507.17px;
+    background: url(../images/image_3.png);
+}
+
+.txt_contrasena_2 {
+    /* Contraseña... */
+    position: absolute;
+    width: /*157.18px*/ 180px;
+    height: 13.92px;
+    left: 987.03px;
+    top: 517.83px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21.5567px;
+    line-height: 25px;
+    color: #004072;
+}
+
+.rectangulo_15 {
+    /* Rectangle 2 */
+    position: absolute;
+    width: 167.59px;
+    height: 45.58px;
+    left: 965.69px;
+    top: 588.24px;
+    border: 2.41142px solid #003F70;
+    box-sizing: border-box;
+    border-radius: 22.7879px;
+}
+
+.registrarse_3 {
+    /* Registrarse */
+    position: absolute;
+    width: 136.49px;
+    height: 28.21px;
+    left: 981.13px;
+    top: 596.92px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23.1496px;
+    line-height: 27px;
+    text-align: center;
+    color: #004072;
+}
+
+.img_38 {
+    /* image 38 */
+    position: absolute;
+    width: 1400px;
+    height: 801px;
+    left: 0px;
+    top: /*800px*/ 0px;
+    background: linear-gradient(321.28deg, #004071 22.25%, #FFFFFF 146.03%);
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.logo_alt2 {
+    /* blanco 1 */
+    position: absolute;
+    width: 70.7px;
+    height: 60.35px;
+    left: 665px;
+    top: 23.47px;
+    background: url(../images/image_blanco_1.png);
+}
+
+.rectangulo_16 {
+    /* Rectangle 1 */
+    position: absolute;
+    width: 435.21px;
+    height: 579.57px;
+    left: 482px;
+    top: 110px;
+    background: #FFFFFF;
+    border-radius: 48.4549px;
+}
+
+.txt_ingresa_fecha_nac {
+    /* Ingresa tu fecha de nacimiento */
+    position: absolute;
+    width: 352.72px;
+    height: 13.51px;
+    left: 523.25px;
+    top: 161.91px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: #004072;
+}
+
+.rectangulo_17 {
+    /* Rectangle 4 */
+    position: absolute;
+    width: 66.14px;
+    height: 31.29px;
+    left: 586.54px;
+    top: 236.58px;
+    border: 4.49098px solid #003F70;
+    box-sizing: border-box;
+    border-radius: 42.4397px;
+}
+
+.txt_dia1 {
+    /* Dia */
+    position: absolute;
+    width: 36.27px;
+    height: 13.51px;
+    left: 603.6px;
+    top: 238.71px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21.5567px;
+    line-height: 25px;
+    color: #004072;
+}
+
+.rectangulo_18 {
+    /* Rectangle 8 */
+    position: absolute;
+    width: 66.14px;
+    height: 31.29px;
+    left: 666.89px;
+    top: 236.58px;
+    border: 4.49098px solid #003F70;
+    box-sizing: border-box;
+    border-radius: 42.4397px;
+}
+
+.txt_mes1 {
+    /* Mes */
+    position: absolute;
+    width: 49.07px;
+    height: 13.51px;
+    left: 680.41px;
+    top: 238.71px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21.5567px;
+    line-height: 25px;
+    color: #004072;
+}
+
+.rectangulo_19 {
+    /* Rectangle 9 */
+    position: absolute;
+    width: 66.14px;
+    height: 31.29px;
+    left: 747.25px;
+    top: 236.58px;
+    border: 4.49098px solid #003F70;
+    box-sizing: border-box;
+    border-radius: 42.4397px;
+}
+
+.txt_anio1 {
+    /* Año */
+    position: absolute;
+    width: 49.07px;
+    height: 13.51px;
+    left: /*760.76px*/ 755px;
+    top: 238.71px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21.5567px;
+    line-height: 25px;
+    color: #004072;
+}
+
+.img_65 {
+    /* image 65 */
+    position: absolute;
+    width: 46.37px;
+    height: 46.37px;
+    left: 676.57px;
+    top: 279.98px;
+    background: url(../images/image_65.png);
+}
+
+.txt_ingresa_num {
+    /* Ingresa tu numero de telefono */
+    position: absolute;
+    width: 343.48px;
+    height: 13.51px;
+    left: 528.22px;
+    top: 338.98px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: #004072;
+}
+
+.rectangulo_20 {
+    /* Rectangle 5 */
+    position: absolute;
+    width: 269.01px;
+    height: 70.06px;
+    left: 565.2px;
+    top: 415.79px;
+    border: 4.49098px solid #003F70;
+    box-sizing: border-box;
+    border-radius: 42.4397px;
+}
+
+.img_37 {
+    /* image 37 */
+    position: absolute;
+    width: 45.51px;
+    height: 35.56px;
+    left: 585.83px;
+    top: 431.73px;
+    background: url(../images/image_37.png);
+}
+
+.txt_54 {
+    /* +54... */
+    position: absolute;
+    width: /*196.98px*/ 125px;
+    height: 13.51px;
+    left: 635.6px;
+    top: 435.99px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21.5567px;
+    line-height: 25px;
+    color: #004072;
+}
+
+.img_66_1 {
+    /* image 66 */
+    position: absolute;
+    width: 46.37px;
+    height: 46.37px;
+    left: 767.57px;
+    top: 426.98px;
+    background: url(../images/image_66.png);
+}
+
+.rectangulo_21 {
+    /* Rectangle 2 */
+    position: absolute;
+    width: 167.59px;
+    height: 45.58px;
+    left: 615.69px;
+    top: 604.24px;
+    border: 2.41142px solid #003F70;
+    box-sizing: border-box;
+    border-radius: 22.7879px;
+}
+
+.registrarse_4 {
+    /* Registrarse */
+    position: absolute;
+    width: 136.49px;
+    height: 28.21px;
+    left: 631.13px;
+    top: 612.92px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23.1496px;
+    line-height: 27px;
+    text-align: center;
+    color: #004072;
+}
+
+.img_26 {
+    /* image 26 */
+    position: absolute;
+    width: 1400px;
+    height: 106px;
+    left: 0px;
+    top: /*105px*/ 0px;
+    background: #FFFFFF;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.img_23 {
+    /* image 23 */
+    position: absolute;
+    width: 314.9px;
+    height: 60.36px;
+    left: 13.51px;
+    top: 25.6px;
+    background: url(../images/image_23.png);
+}
+
+.txt_reestablecer {
+    /* Restablecer contraseña */
+    position: absolute;
+    width: 717px;
+    height: 83px;
+    left: 342px;
+    top: 131px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 68.2687px;
+    line-height: 80px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.subtext_5 {
+    /* Te hemos mandado una confirmacion a D****@G****.com Una vez en el Email sigue las instrucciones */
+    position: absolute;
+    width: 885px;
+    height: 83px;
+    left: 258px;
+    top: 214px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34.1343px;
+    line-height: 40px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.img_5_b {
+    /* image 5 */
+    position: absolute;
+    width: 407.48px;
+    height: 370.1px;
+    left: 496px;
+    top: 297px;
+    background: url(../images/image_5_b.png);
+}
+
+.rectangulo_22 {
+    /* Rectangle 1 */
+    position: absolute;
+    width: 435.21px;
+    height: 579.57px;
+    left: 482px;
+    top: 110px;
+    background: #FFFFFF;
+    border-radius: 48.4549px;
+}
+
+.txt_ingresa_tu_nueva {
+    /* Ingresa tu nueva contraseña */
+    position: absolute;
+    width: 322.85px;
+    height: 13.51px;
+    left: 538.18px;
+    top: 149.82px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: #004072;
+}
+
+.rectangulo_23 {
+    /* Rectangle 7 */
+    position: absolute;
+    width: 269.01px;
+    height: 70.06px;
+    left: 565.91px;
+    top: 215.96px;
+    border: 4.49098px solid #003F70;
+    box-sizing: border-box;
+    border-radius: 42.4397px;
+}
+
+.img_3_c {
+    /* image 35 */
+    position: absolute;
+    width: 53.3px;
+    height: 48.5px;
+    left: 582.98px;
+    top: 226.63px;
+    background: url(../images/image_3.png);
+}
+
+.txt_contrasena_3 {
+    /* Contraseña... */
+    position: absolute;
+    width: 157.18px;
+    height: 13.92px;
+    left: 637.74px;
+    top: 237.29px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21.5567px;
+    line-height: 25px;
+    color: #004072;
+}
+
+.txt_vuelve_a_escribirla {
+    /* Vuelve a escribirla */
+    position: absolute;
+    width: 208.36px;
+    height: 13.51px;
+    left: 595.78px;
+    top: 338.98px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    text-align: center;
+    color: #004072;
+}
+
+.rectangulo_24 {
+    /* Rectangle 8 */
+    position: absolute;
+    width: 269.01px;
+    height: 70.06px;
+    left: 565.2px;
+    top: 405.12px;
+    border: 4.49098px solid #003F70;
+    box-sizing: border-box;
+    border-radius: 42.4397px;
+}
+
+.img_3_d {
+    /* image 39 */
+    position: absolute;
+    width: 53.3px;
+    height: 48.5px;
+    left: 582.27px;
+    top: 415.79px;
+    background: url(../images/image_3.png);
+}
+
+.txt_contrasena_4 {
+    /* Contraseña... */
+    position: absolute;
+    width: 157.18px;
+    height: 13.92px;
+    left: 637.03px;
+    top: 426.45px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21.5567px;
+    line-height: 25px;
+    color: #004072;
+}
+
+.rectangulo_25 {
+    /* Rectangle 2 */
+    position: absolute;
+    width: 167.59px;
+    height: 45.58px;
+    left: 615.69px;
+    top: 604.24px;
+    border: 2.41142px solid #003F70;
+    box-sizing: border-box;
+    border-radius: 22.7879px;
+}
+
+.txt_actualizar {
+    /* Actualizar */
+    position: absolute;
+    width: 107.38px;
+    height: 28.45px;
+    left: 645.56px;
+    top: 612.77px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23.1496px;
+    line-height: 27px;
+    text-align: center;
+    color: #004072;
+}
+
+.cerrar_sesion {
+    /* Cerrar sesion */
+    position: absolute;
+    width: 510.97px;
+    height: 55.94px;
+    left: 32px;
+    top: 113.07px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45.6791px;
+    line-height: 54px;
+    color: #004072;
+}
+
+.estas_seguro {
+    /* ¿Estas seguro que quieres cerrar sesion? */
+    position: absolute;
+    width: 885px;
+    height: 83px;
+    left: 32px;
+    top: 188px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34.1343px;
+    line-height: 40px;
+    color: #FFFFFF;
+}
+
+.rectangulo_25_b {
+    /* Rectangle 3 */
+    position: absolute;
+    width: 334.23px;
+    height: 60.45px;
+    left: 32px;
+    top: 244px;
+    background: rgba(0, 63, 111, 0.5);
+    border-radius: 30.0663px;
+}
+
+.cerrar_sesion_2 {
+    /* Cerrar sesion */
+    position: absolute;
+    width: 285.16px;
+    height: 34.13px;
+    left: 56.89px;
+    top: 257.51px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.no_quiero_cerrar_sesion {
+    /* No quiero cerrar sesion */
+    position: absolute;
+    width: 296px;
+    height: 33.17px;
+    left: 57px;
+    top: 316px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.3019px;
+    line-height: 33px;
+    /* identical to box height */
+    text-decoration-line: underline;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+/*inicio_bienvenido*/
+.inicio {
+    /* Inicio 
+    position: absolute;
+    width: 76.09px;
+    height: 36.27px;
+    left: 1078px;
+    top: 38px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 31.4899px;
+    line-height: 37px;
+    identical to box height
+    text-align: center;
+    text-decoration-line: underline;
+    color: #004071;*/
+
+    /* Inicio */
+
+    position: absolute;
+    width: 76.09px;
+    height: 36.27px;
+    left: 1153px;
+    top: 38.13px;
+
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 31.4899px;
+    line-height: 37px;
+    /* identical to box height */
+    text-align: center;
+    text-decoration-line: underline;
+    color: #004071;
+
+}
+
+.img_perfil {
+    /* pngwing 2 
+    position: absolute;
+    width: 53.51px;
+    height: 53.51px;
+    left: 1176.14px;
+    top: 29.87px;
+    background: url(../images/pngwing_1.png);*/
+    /* pngwing 1 */
+
+    position: absolute;
+    width: 53.51px;
+    height: 53.51px;
+    left: 1251.14px;
+    top: 30px;
+    background: url(../images/pngwing_1.png);
+}
+
+.linea_perfil {
+    /* Line 12 */
+    position: absolute;
+    width: 59.74px;
+    height: 0px;
+    left: 1173px;
+    top: 88px;
+    border: /*2.1334px*/ 1px solid #004070;
+}
+
+.img_ajustes {
+    /* image 72 
+    position: absolute;
+    width: 53.51px;
+    height: 53.51px;
+    left: 1251.52px;
+    top: 29.87px;
+    background: url(../images/image_40.png);*/
+}
+
+.linea_ajustes {
+    /* Line 26 */
+    position: absolute;
+    width: 59.74px;
+    height: 0px;
+    left: 1248px;
+    top: 88px;
+    border: /*2.1334px*/ 2px solid #004070;
+}
+
+.img_prendido {
+    /* image 73 */
+    position: absolute;
+    width: 53.51px;
+    height: 52.97px;
+    left: 1326.9px;
+    top: 29.87px;
+    background: url(../images/image_41.png);
+}
+
+.linea_prendido {
+    /* Line 26 */
+    position: absolute;
+    width: 59.74px;
+    height: 0px;
+    left: 1324px;
+    top: 88px;
+    border: 2.1334px solid #004070;
+}
+
+.blanco_1 {
+    /* image 26 */
+    position: absolute;
+    width: 1024.03px;
+    height: 105.96px;
+    left: 0px;
+    /*top: 104.54px;*/
+    top: -1px;
+    background: #FFFFFF;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.img_42 {
+    /* image 42 */
+    position: absolute;
+    width: 1400px;
+    height: 64px;
+    left: 0px;
+    top: /*169px*/ 109px;
+    background: #FFFFFF;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.img_42_b {
+    /* image 42 */
+    position: absolute;
+    width: 1400px;
+    height: 249px;
+    left: 0px;
+    top: /*354px*/ 109.5px;
+    background: #FFFFFF;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_bienvenido {
+    /* Bienvenido David Szaf! */
+    position: absolute;
+    width: /*510.97px*/ 1390px;
+    height: 55.94px;
+    left: 32px;
+    top: 113.07px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45.6791px;
+    line-height: 54px;
+    color: #004072;
+}
+
+.subtext_6 {
+    /* Estamos contentos de tenerte devuelta por aca! */
+    position: absolute;
+    width: 589.53px;
+    height: 104.96px;
+    left: 32px;
+    top: 169px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30.1678px;
+    line-height: 35px;
+    color: #004071;
+}
+
+.img_87 {
+    /* image 87 */
+    position: absolute;
+    width: 166.29px;
+    height: 242.3px;
+    left: 637.89px;
+    top: 108.8px;
+    background: url(../images/image_87.png);
+}
+
+.puntitos_1 {
+    /* .... */
+    /*modificado*/
+    position: absolute;
+    width: 63.2px;
+    height: 8px;
+    left: 664px;
+    top: 245px;
+    background: url(../images/puntitos_1.png);
+}
+
+.txt_accesos_directos {
+    /* Accesos directos */
+    position: absolute;
+    width: 238.16px;
+    height: 15.93px;
+    left: 43px;
+    top: 274px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30.189px;
+    line-height: 35px;
+    color: #FFFFFF;
+}
+
+.rectangulo_26 {
+    /* image 44 */
+    position: absolute;
+    width: 215.8px;
+    height: 150.94px;
+    left: 24px;
+    top: /*469.03px*/ 320px;
+    background: #FFFFFF;
+    border-radius: 35.3767px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.img_45 {
+    /* image 45 */
+    position: absolute;
+    width: 63.1px;
+    height: 63.1px;
+    left: 99.18px;
+    top: 338.57px;
+    background: url(../images/image_45.png);
+}
+
+.txt_mi_billetera {
+    /* Mi billetera */
+    position: absolute;
+    width: 149.27px;
+    height: 15.93px;
+    left: 56.42px;
+    top: 413.21px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30.189px;
+    line-height: 35px;
+    color: #003F6F;
+}
+
+.rectangulo_27 {
+    /* image 53 */
+    position: absolute;
+    width: 215.8px;
+    height: 150.94px;
+    left: 303px;
+    top: /*469.33px*/ 320px;
+    background: #FFFFFF;
+    border-radius: 35.3767px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.img_46 {
+    /* image 46 */
+    position: absolute;
+    width: 63.1px;
+    height: 71.83px;
+    left: 378.82px;
+    top: 332.32px;
+    background: url(../images/image_46.png);
+}
+
+.txt_transferencias {
+    /* Transferencias */
+    position: absolute;
+    width: 199.58px;
+    height: 15.93px;
+    left: 310.9px;
+    top: 411.15px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30.189px;
+    line-height: 35px;
+    color: #003F6F;
+}
+
+.rectangulo_28 {
+    /* image 54 */
+    position: absolute;
+    width: 215.8px;
+    height: 150.94px;
+    left: 492.33px;
+    top: /*575px*/ 425.08px;
+    background: #FFFFFF;
+    border-radius: 35.3767px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.img_47 {
+    /* image 47 */
+    position: absolute;
+    width: 71.82px;
+    height: 71.82px;
+    left: 563.63px;
+    top: 432.09px;
+    background: url(../images/image_47.png);
+}
+
+.txt_pagar_servicios {
+    /* Pagar servicios */
+    position: absolute;
+    width: 207.13px;
+    height: 15.93px;
+    left: 496.54px;
+    top: 510.92px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30.189px;
+    line-height: 35px;
+    color: #003F6F;
+}
+
+.rectangulo_29 {
+    /* image 55 */
+    position: absolute;
+    width: 215.8px;
+    height: 150.94px;
+    left: 24px;
+    top: /*656.33px*/ 510px;
+    background: #FFFFFF;
+    border-radius: 35.3767px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.alcannnnn_1 {
+    /* alcannnnn 1 */
+    position: absolute;
+    width: 84.25px;
+    height: 71.82px;
+    left: 88.52px;
+    top: 518.14px;
+    background: url(../images/alcannnnn_1.png);
+}
+
+.txt_plazos_fijos {
+    /* Plazos fijos */
+    position: absolute;
+    width: 155.14px;
+    height: 15.93px;
+    left: 53.29px;
+    top: 596.97px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30.189px;
+    line-height: 35px;
+    color: #003F6F;
+}
+
+.rectangulo_30 {
+    /* image 56 */
+    position: absolute;
+    width: 215.8px;
+    height: 150.94px;
+    left: 303px;
+    top: /*656.33px*/ 510px;
+    background: #FFFFFF;
+    border-radius: 35.3767px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.img_48 {
+    /* image 48 */
+    position: absolute;
+    width: 71.82px;
+    height: 71.82px;
+    left: 374.28px;
+    top: 513.42px;
+    background: url(../images/image_48.png);
+}
+
+.txt_prestamos {
+    /* Prestamos */
+    position: absolute;
+    width: 151.78px;
+    height: 15.93px;
+    left: 334.87px;
+    top: 592.25px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30.189px;
+    line-height: 35px;
+    color: #003F6F;
+}
+
+.linea_blanca {
+    /* Line 27 */
+    position: absolute;
+    width: 540.13px;
+    height: 0px;
+    left: /*548px*/ 279px;
+    top: /*800.13px*/ 530px;
+    border: 2px solid #FFFFFF;
+    transform: rotate(-90deg);
+}
+
+.txt_tus_productos {
+    /* Tus productos */
+    position: absolute;
+    width: 220.77px;
+    height: 14.77px;
+    left: 585px;
+    top: 282.39px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27.9845px;
+    line-height: 33px;
+    color: #FFFFFF;
+}
+
+.rectangulo_31 {
+    /* image 49 */
+    position: absolute;
+    width: 206px;
+    height: 110.38px;
+    left: 578px;
+    top: /*433.19px*/ 320px;
+    background: #FFFFFF;
+    border-radius: 10.9311px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_cuentas {
+    /* Cuentas */
+    position: absolute;
+    width: 105.72px;
+    height: 14.77px;
+    left: 585px;
+    top: 326.7px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27.9845px;
+    line-height: 33px;
+    color: #003F6F;
+}
+
+.saldos_totales_1 {
+    /* Saldos totales */
+    position: absolute;
+    width: 120.49px;
+    height: 14.77px;
+    left: 583.44px;
+    top: 356.24px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18.6563px;
+    line-height: 22px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.dinero_1 {
+    /* $ 2056,34 */
+    position: absolute;
+    width: 105.72px;
+    height: 14.77px;
+    left: 585px;
+    top: 388.11px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18.6563px;
+    line-height: 22px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.rectangulo_32 {
+    /* image 50 */
+    position: absolute;
+    width: 214.55px;
+    height: 110.38px;
+    left: 265.98px;
+    top: /*744.81px*/ 635.42px;
+    background: #FFFFFF;
+    border-radius: 10.9311px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.visa_1 {
+    /* Visa XXXX-5432 */
+    position: absolute;
+    width: 207.55px;
+    height: 14.77px;
+    left: 272.98px;
+    top: 638.31px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27.9845px;
+    line-height: 33px;
+    color: #003F6F;
+}
+
+.saldos_totales_2 {
+    /* Saldos totales */
+    position: absolute;
+    width: 120.49px;
+    height: 14.77px;
+    left: 271.42px;
+    top: 667.85px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18.6563px;
+    line-height: 22px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.dinero_2 {
+    /* $ 1260,00 */
+    position: absolute;
+    width: 105.72px;
+    height: 14.77px;
+    left: 272.98px;
+    top: 699.72px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18.6563px;
+    line-height: 22px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.logo_visa {
+    /* image 90 */
+    position: absolute;
+    width: 77.66px;
+    height: 25.14px;
+    left: 391.61px;
+    top: 712.94px;
+    background: url(../images/image_90.png);
+}
+
+.rectangulo_33 {
+    /* image 51 */
+    position: absolute;
+    width: 214.55px;
+    height: 110.38px;
+    left: 508.51px;
+    top: /*744.81px*/ 635.42px;
+    background: #FFFFFF;
+    border-radius: 10.9311px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.diners_1 {
+    /* Diners XXX-254 */
+    position: absolute;
+    width: 207.55px;
+    height: 14.77px;
+    left: 515.51px;
+    top: 638.31px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27.9845px;
+    line-height: 33px;
+    color: #003F6F;
+}
+
+.saldos_totales_3 {
+    /* Saldos totales */
+    position: absolute;
+    width: 120.49px;
+    height: 14.77px;
+    left: 513.96px;
+    top: 667.85px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18.6563px;
+    line-height: 22px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.dinero_3 {
+    /* $ 560,34 */
+    position: absolute;
+    width: 105.72px;
+    height: 14.77px;
+    left: 515.51px;
+    top: 699.72px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18.6563px;
+    line-height: 22px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.logo_diners {
+    /* image 91 */
+    position: absolute;
+    width: 37.27px;
+    height: 29.51px;
+    left: 678px;
+    top: 708.56px;
+    background: url(../images/image_91.png);
+}
+
+.rectangulo_34 {
+    /* image 52 */
+    position: absolute;
+    width: 214.55px;
+    height: 110.38px;
+    left: 751.05px;
+    top: /*744.81px*/ 635.42px;
+    background: #FFFFFF;
+    border-radius: 10.9311px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_pay_pal {
+    /* Pay-Pal */
+    position: absolute;
+    width: 207.55px;
+    height: 14.77px;
+    left: 758.04px;
+    top: 638.31px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27.9845px;
+    line-height: 33px;
+    color: #003F6F;
+}
+
+.saldos_totales_4 {
+    /* Saldos totales */
+    position: absolute;
+    width: 120.49px;
+    height: 14.77px;
+    left: 756.49px;
+    top: 667.85px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18.6563px;
+    line-height: 22px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.dinero_4 {
+    /* $ 236,00 */
+    position: absolute;
+    width: 105.72px;
+    height: 14.77px;
+    left: 758.04px;
+    top: 699.72px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18.6563px;
+    line-height: 22px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.logo_pay_pal {
+    /* image 92 */
+    position: absolute;
+    width: 89.3px;
+    height: 25.14px;
+    left: 867.11px;
+    top: 712.94px;
+    background: url(../images/image_92.png);
+}
+
+.dia_del_nino_1 {
+    /* Día del niño ¡festajalo junto a tu familia! */
+    position: absolute;
+    width: 510.97px;
+    height: 55.94px;
+    left: 32px;
+    top: 113.07px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45.6791px;
+    line-height: 54px;
+    color: #004072;
+}
+
+.dia_del_nino_2 {
+    /* Por el día del niño, ¡estamos dando una bonificacion de $200 a todos los usuarios de Bankame! */
+    position: absolute;
+    width: 589.53px;
+    height: 104.96px;
+    left: 32px;
+    top: 229.97px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30.1678px;
+    line-height: 35px;
+    color: #004071;
+}
+
+.img_43 {
+    /* image 43 */
+    position: absolute;
+    width: 186.18px;
+    height: 242.3px;
+    left: 968px;
+    top: 108px;
+    background: url(../images/image_43.png);
+    border-radius: 93.0912px;
+}
+
+.puntitos_2 {
+    /* .... */
+    /*modificado*/
+    position: absolute;
+    width: 63.2px;
+    height: 8px;
+    left: 664px;
+    top: 245px;
+    background: url(../images/puntitos_2.png);
+}
+
+.acerca_de_1 {
+    /* Picto, el primer home banking inclusivo */
+    position: absolute;
+    width: 510.97px;
+    height: 55.94px;
+    left: 32px;
+    top: 113.07px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45.6791px;
+    line-height: 54px;
+    color: #004072;
+}
+
+.acerca_de_2 {
+    /* Picto es el primer home banking que cuenta con un diseño totalmente inclusivo para todo tipo de publico */
+    position: absolute;
+    width: 589.53px;
+    height: 104.96px;
+    left: 32px;
+    top: 229.97px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30.1678px;
+    line-height: 35px;
+    color: #004071;
+}
+
+.img_88 {
+    /* image 88 */
+    position: absolute;
+    width: 311.3px;
+    height: 311.3px;
+    left: 630px;
+    top: 80px;
+    background: url(../images/image_88.png);
+}
+
+.puntitos_3 {
+    /* .... */
+    /*modificado*/
+    position: absolute;
+    width: 63.2px;
+    height: 8px;
+    left: 664px;
+    top: 245px;
+    background: url(../images/puntitos_3.png);
+}
+
+.cuida_tu_dinero_1 {
+    /* Cuida tu dinero */
+    position: absolute;
+    width: 510.97px;
+    height: 55.94px;
+    left: 32px;
+    top: 113.07px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45.6791px;
+    line-height: 54px;
+    color: #004072;
+}
+
+.cuida_tu_dinero_2 {
+    /* No muestres tus contraseñas. Verifica a quien le trasferis dinero. */
+    position: absolute;
+    width: 589.53px;
+    height: 104.96px;
+    left: 32px;
+    top: 169px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30.1678px;
+    line-height: 35px;
+    color: #004071;
+}
+
+.img_89 {
+    /* image 89 */
+    position: absolute;
+    width: 242.3px;
+    height: 242.3px;
+    left: 637.89px;
+    top: 108.8px;
+    background: url(../images/image_89.png);
+}
+
+.puntitos_4 {
+    /* .... */
+    /*modificado*/
+    position: absolute;
+    width: 63.2px;
+    height: 8px;
+    left: 664px;
+    top: 245px;
+    background: url(../images/puntitos_4.png);
+}
+
+.blanco_3 {
+    /* image 42 */
+    position: absolute;
+    width: 1024.03px;
+    height: 64.71px;
+    left: 0px;
+    top: /*169.25px*/ 109px;
+    background: #FFFFFF;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.inicio_2 {
+    /* Inicio 
+    position: absolute;
+    width: 76.09px;
+    height: 36.27px;
+    left: 1078px;
+    top: 38px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 31.4899px;
+    line-height: 37px;
+    identical to box height
+    text-align: center;
+    color: #004071;*/
+
+    /* Inicio */
+
+    position: absolute;
+    width: 76.09px;
+    height: 36.27px;
+    left: 1153px;
+    top: 38.13px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 31.4899px;
+    line-height: 37px;
+    /* identical to box height */
+    text-align: center;
+    color: #004071;
+
+}
+
+.title_b {
+    /* Mi perfil */
+    position: absolute;
+    width: 510.97px;
+    height: 55.94px;
+    left: 32px;
+    top: 113.07px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45.6791px;
+    line-height: 54px;
+    color: #004072;
+}
+
+.linea {
+    /* Line 25 */
+    position: absolute;
+    width: /*560.01px*/ 5px;
+    height: /*0px*/ 630px;
+    left: /*313.02px*/ 310px;
+    top: /*729.2px*/ 170px;
+    /*transform: rotate(-90deg)*/
+    background-image: url(../images/linea.png);
+}
+
+.side_1 {
+    /* image 44 */
+    position: absolute;
+    width: 316px;
+    height: 47px;
+    left: -19.48px;
+    top: /*235.2px*/ 189px;
+    background: #FFFFFF;
+    border-radius: 30px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_side_1_h {
+    /* Informacion de cuenta */
+    position: absolute;
+    width: 256.72px;
+    height: 13.51px;
+    left: 7px;
+    top: /*196.27px*/ 197.27px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: #003F6F;
+}
+
+.txt_side_1 {
+    /* Informacion de cuenta */
+    position: absolute;
+    width: 256.72px;
+    height: 13.51px;
+    left: /*27.02px*/ 7px;
+    top: /*196.27px*/ 197.27px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.side_2 {
+    /* image 70 */
+    position: absolute;
+    width: 316px;
+    height: 47px;
+    left: -19.48px;
+    top: /*303.2px*/ 257px;
+    background: #FFFFFF;
+    border-radius: 30px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_side_2_h {
+    /* Informacion personal */
+    position: absolute;
+    width: 256.72px;
+    height: 13.51px;
+    left: /*27.02px*/ 7px;
+    top: /*264.54px*/ 265.54px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: #003F6F;
+}
+
+.txt_side_2 {
+    /* Informacion personal */
+    position: absolute;
+    width: 256.72px;
+    height: 13.51px;
+    left: 7px;
+    top: /*264.54px*/ 265.54px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.side_3 {
+    /* image 71 */
+    position: absolute;
+    width: 316px;
+    height: 47px;
+    left: -19.48px;
+    top: /*371.2px*/ 325.2px;
+    background: #FFFFFF;
+    border-radius: 30px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_side_3_h {
+    /* Informacion bancaria */
+    position: absolute;
+    width: 256.72px;
+    height: 13.51px;
+    left: /*27.02px*/ 7px;
+    top: /*332.81px*/ 333.81px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: #003F6F;
+}
+
+.txt_side_3 {
+    /* Informacion bancaria */
+    position: absolute;
+    width: 256.72px;
+    height: 13.51px;
+    left: 7px;
+    top: /*332.81px*/ 333.81px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.rectangulo_35 {
+    /* image 45 */
+    position: absolute;
+    width: 922px;
+    height: 573px;
+    left: 330px;
+    top: /*761px*/ 189px;
+    background: #FFFFFF;
+    border-radius: 30px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_1 {
+    /* Mi correo electronico */
+    position: absolute;
+    width: 546.86px;
+    height: 13.51px;
+    left: 344.9px;
+    top: 196.27px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: #003F6F;
+}
+
+.textbox_1 {
+    /* image 46 */
+    position: absolute;
+    width: 401.08px;
+    height: 51.2px;
+    left: 344.9px;
+    top: /*288.01px*/ 236px;
+    border: 2.1334px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_transp_1 {
+    /* david@gmail.com */
+    position: absolute;
+    width: /*546.86px*/ 330px;
+    height: 13.51px;
+    left: 352.72px;
+    top: 248.19px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_transp_1_b {
+    /* david@gmail.com */
+    position: absolute;
+    width: /*546.86px*/ 100px;
+    height: 13.51px;
+    left: 352.72px;
+    top: 248.19px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_2 {
+    /* Mi nombre de usuario */
+    position: absolute;
+    width: 546.86px;
+    height: 13.51px;
+    left: 344.9px;
+    top: 327.83px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: #003F6F;
+}
+
+.textbox_2 {
+    /* image 47 */
+    position: absolute;
+    width: 401.08px;
+    height: 51.2px;
+    left: 344.9px;
+    top: /*419.57px*/ 370px;
+    border: 2.1334px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_transp_2 {
+    /* Deiv055 */
+    position: absolute;
+    width: /*546.86px*/ 330px;
+    height: 13.51px;
+    left: 352.72px;
+    top: 379.74px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_transp_2_b {
+    /* Deiv055 */
+    position: absolute;
+    width: /*546.86px*/ 375px;
+    height: 13.51px;
+    left: 352.72px;
+    top: 379.74px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_3 {
+    /* Mi contraseña */
+    position: absolute;
+    width: 546.86px;
+    height: 13.51px;
+    left: 344.9px;
+    top: 459.39px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: #003F6F;
+}
+
+.textbox_3 {
+    /* image 48 */
+    position: absolute;
+    width: 401.08px;
+    height: 51.2px;
+    left: 344.9px;
+    top: /*551.13px*/ 502px;
+    border: 2.1334px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_transp_3 {
+    /* *********** */
+    position: absolute;
+    width: /*546.86px*/ 330px;
+    height: 13.51px;
+    left: 352.72px;
+    top: 511.3px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_small_1 {
+    /* Modificar contraseña */
+    position: absolute;
+    width: 162.14px;
+    height: 13.51px;
+    left: 344.9px;
+    top: 559.66px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.0672px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.rectangulo_36 {
+    /* Rectangle 3 */
+    position: absolute;
+    width: 334.23px;
+    height: 60.45px;
+    left: 344.9px;
+    top: 613px;
+    border: 3px solid #004173;
+    box-sizing: border-box;
+    border-radius: 30.0663px;
+}
+
+.actualizar_informacion {
+    /* Actualizar informacion */
+    position: absolute;
+    width: 290px;
+    height: 34px;
+    left: 367px;
+    top: 626px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    text-align: center;
+    color: #003F70;
+}
+
+.img_5_c {
+    /* image 5 */
+    position: absolute;
+    width: 46.37px;
+    height: 42.12px;
+    left: 691.52px;
+    top: 241.2px;
+    background: url(../images/image_5.png);
+}
+
+.img_2_c {
+    /* image 2 */
+    position: absolute;
+    width: 52.99px;
+    height: 48.5px;
+    left: /*691.52px*/ 682px;
+    top: /*369.2px*/ 368.5px;
+    background: url(../images/image_2.png);
+}
+
+.img_35 {
+    /* image 35 */
+    position: absolute;
+    width: 53.3px;
+    height: 48.5px;
+    left: 692.52px;
+    top: 502.2px;
+    background: url(../images/image_35.png);
+}
+
+.textbox_1_b {
+    /* image 46 */
+    position: absolute;
+    width: 160.72px;
+    height: 51.2px;
+    left: 344.9px;
+    top: /*288.01px*/ 237.81px;
+    border: 2.1334px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.img_63_b {
+    /* image 63 */
+    position: absolute;
+    width: 42.5px;
+    height: 42.5px;
+    left: 458.05px;
+    top: 241.2px;
+    background: url(../images/image_63.png);
+}
+
+.txt_1_b {
+    /* Apellido */
+    position: absolute;
+    width: 546.86px;
+    height: 13.51px;
+    left: 543.3px;
+    top: 196.27px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: #003F6F;
+}
+
+.textbox_1_c {
+    /* image 49 */
+    position: absolute;
+    width: 160.72px;
+    height: 51.2px;
+    left: 543.3px;
+    top: /*288.01px*/ 237.81px;
+    border: 2.1334px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_transp_1_c {
+    /* Perez */
+    position: absolute;
+    width: /*546.86px*/ 100px;
+    height: 13.51px;
+    left: 551.13px;
+    top: 248.19px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_transp_1_d {
+    /* david@gmail.com */
+    position: absolute;
+    width: /*546.86px*/ 375px;
+    height: 13.51px;
+    left: 352.72px;
+    top: 248.19px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.img_63_c {
+    /* image 64 */
+    position: absolute;
+    width: 42.5px;
+    height: 42.5px;
+    left: 656.05px;
+    top: 241.2px;
+    background: url(../images/image_63.png);
+}
+
+.img_13_b {
+    /* image 13 */
+    position: absolute;
+    width: 45.51px;
+    height: 52.89px;
+    left: 694.05px;
+    top: 368.2px;
+    background: url(../images/image_13.png);
+}
+
+.img_65_b {
+    /* image 65 */
+    position: absolute;
+    width: 46.37px;
+    height: 46.37px;
+    left: 587.05px;
+    top: 449.2px;
+    background: url(../images/image_65.png);
+}
+
+.textbox_3_b {
+    /* image 48 */
+    position: absolute;
+    width: /*83.2px*/ 359px;
+    height: 51.2px;
+    left: 344.9px;
+    top: /*551.13px*/ 500.93px;
+    border: 2.1334px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_transp_3_a {
+    /* 18 */
+    position: absolute;
+    width: /*34.13px*/ 300px;
+    height: 13.51px;
+    left: 352.72px;
+    top: 511.3px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.textbox_3_c {
+    /* image 50 */
+    position: absolute;
+    width: 83.2px;
+    height: 51.2px;
+    left: 460.1px;
+    top: /*551.13px*/ 500.93px;
+    border: 2.1334px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_transp_3_b {
+    /* 02 */
+    position: absolute;
+    width: 34.13px;
+    height: 13.51px;
+    left: 484.99px;
+    top: 511.3px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.textbox_3_d {
+    /* image 51 */
+    position: absolute;
+    width: 83.2px;
+    height: 51.2px;
+    left: 575.31px;
+    top: /*551.13px*/ 500.93px;
+    border: 2.1334px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_transp_3_c {
+    /* 1998 */
+    position: absolute;
+    width: 58.31px;
+    height: 13.51px;
+    left: 588.11px;
+    top: 511.3px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_small_1_b {
+    /* Día */
+    position: absolute;
+    width: 162.14px;
+    height: 13.51px;
+    left: 344.9px;
+    top: 551.84px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.0672px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_small_2 {
+    /* Mes */
+    position: absolute;
+    width: 162.14px;
+    height: 13.51px;
+    left: 460.1px;
+    top: 551.84px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.0672px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_small_3 {
+    /* Año */
+    position: absolute;
+    width: 162.14px;
+    height: 13.51px;
+    left: 575.31px;
+    top: 551.84px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.0672px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_4 {
+    /* Numero de telefono */
+    position: absolute;
+    width: 546.86px;
+    height: 13.51px;
+    left: 345px;
+    top: 585px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: #003F6F;
+}
+
+.textbox_4 {
+    /* image 75 */
+    position: absolute;
+    width: 401.08px;
+    height: 51.2px;
+    left: 345px;
+    top: /*676.74px*/ 626.53px;
+    border: 2.1334px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_transp_4 {
+    /* +54011 3425 7830 */
+    position: absolute;
+    width: /*546.86px*/ 330px;
+    height: 13.51px;
+    left: 352.82px;
+    top: 636.91px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.img_66_b {
+    /* image 66 */
+    position: absolute;
+    width: 46.37px;
+    height: 46.37px;
+    left: 694.15px;
+    top: 625.37px;
+    background: url(../images/image_66.png);
+}
+
+.rectangulo_37 {
+    /* Rectangle 3 */
+    position: absolute;
+    width: 334.23px;
+    height: 60.45px;
+    left: 345px;
+    top: 686px;
+    border: 3px solid #003F70;
+    box-sizing: border-box;
+    border-radius: 30.0663px;
+}
+
+.actualizar_informacion_2 {
+    /* Actualizar informacion */
+    position: absolute;
+    width: 285.16px;
+    height: 34.13px;
+    left: 369.89px;
+    top: 699.51px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    text-align: center;
+    /*agregado:*/
+    color: #003F6F;
+}
+
+.img_67 {
+    /* image 67 */
+    position: absolute;
+    width: 45.51px;
+    height: 45.51px;
+    left: 488.57px;
+    top: 450.2px;
+    background: url(../images/image_67.png);
+}
+
+.textbox_3_e {
+    /* image 48 */
+    position: absolute;
+    width: 239.65px;
+    height: 51.2px;
+    left: 344.57px;
+    top: /*551.4px*/ 501.02px;
+    border: 2.1334px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.textbox_3_f {
+    /* image 49 */
+    position: absolute;
+    width: 239.65px;
+    height: 51.2px;
+    left: 618.68px;
+    top: /*551.13px*/ 501.02px;
+    border: 2.1334px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_transp_3_d {
+    /* Visa XXXX-5432 */
+    position: absolute;
+    width: 186.32px;
+    height: 13.51px;
+    left: 352.72px;
+    top: 512.73px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_transp_3_e {
+    /* Diners XXX-254 */
+    position: absolute;
+    width: 186.32px;
+    height: 13.51px;
+    left: 626.51px;
+    top: 512.73px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_transp_3_f {
+    /* Visa XXXX-5432 */
+    position: absolute;
+    width: /*186.32px*/ 215px;
+    height: 13.51px;
+    left: 352.72px;
+    top: 512.73px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_transp_3_g {
+    /* Diners XXX-254 */
+    position: absolute;
+    width: /*186.32px*/ 215px;
+    height: 13.51px;
+    left: 626.51px;
+    top: 512.73px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.textbox_3_2 {
+    /* image 50 */
+    position: absolute;
+    width: 239.65px;
+    height: 51.2px;
+    left: 344.57px;
+    top: /*619.4px*/ 569.2px;
+    border: 2.1334px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_transp_3_2 {
+    /* Pay-Pal */
+    position: absolute;
+    width: 186.32px;
+    height: 13.51px;
+    left: 352.4px;
+    top: 581px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_transp_3_2_b {
+    /* Pay-Pal */
+    position: absolute;
+    width: /*186.32px*/ 215px;
+    height: 13.51px;
+    left: 352.4px;
+    top: 581px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.rectangulo_38 {
+    /* Rectangle 3 */
+    position: absolute;
+    width: 240px;
+    height: 43.4px;
+    left: 344.57px;
+    top: 636.2px;
+    border: 2px solid #003F70;
+    box-sizing: border-box;
+    border-radius: 21.5896px;
+}
+
+.agregar_una_cuenta {
+    /* Agregar una cuenta */
+    position: absolute;
+    width: /*177.19px*/ 200px;
+    height: 24.51px;
+    left: /*375.72px*/ 363px;
+    top: 645.9px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20.2331px;
+    line-height: 24px;
+    text-align: center;
+    color: #003F70;
+}
+
+.img_2_d {
+    /* image 2 */
+    position: absolute;
+    width: 34.42px;
+    height: 31.5px;
+    left: 253px;
+    top: /*193px*/ 194px;
+    background: url(../images/image_2_b.png);
+}
+
+.img_68 {
+    /* image 68 */
+    position: absolute;
+    width: 34.42px;
+    height: 34.42px;
+    left: 253px;
+    top: /*265px*/ 266px;
+    background: url(../images/image_68.png);
+}
+
+.rectangulo_39 {
+    /* image 46 */
+    position: absolute;
+    width: 180px;
+    height: 167.88px;
+    left: 344.57px;
+    top: /*404.08px*/ 237.2px;
+    border: 2.1334px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.img_blue {
+    /* image 55 */
+    position: absolute;
+    width: 157px;
+    height: 157px;
+    left: 355.57px;
+    top: 241.2px;
+    background: url(../images/image_blue.png);
+}
+
+.txt_alt_1 {
+    /* Ocultar mi foto de perfil */
+    position: absolute;
+    width: 273px;
+    height: 14px;
+    left: 345.57px;
+    top: 421.2px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: #003F6F;
+}
+
+.img_56 {
+    /* image 56 */
+    position: absolute;
+    width: 49px;
+    height: 49px;
+    left: 629.57px;
+    top: 412.2px;
+    background: url(../images/image_56.png);
+}
+
+.txt_small_alt_1 {
+    /* Tu foto de perfil sera algo exclusivamente privado, en su lugar se mostrara un icono */
+    position: absolute;
+    width: 333px;
+    height: 14px;
+    left: 344.57px;
+    top: 454.2px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_alt_2 {
+    /* Ocultar mi informacion personal */
+    position: absolute;
+    width: 273px;
+    height: 14px;
+    left: 344.57px;
+    top: 501.2px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: #003F6F;
+}
+
+.img_56_b {
+    /* image 57 */
+    position: absolute;
+    width: 49px;
+    height: 49px;
+    left: 628.57px;
+    top: 492.2px;
+    background: url(../images/image_56.png);
+}
+
+.txt_small_alt_2 {
+    /* Tu informacion personal sera exclusivamente privada */
+    position: absolute;
+    width: 333px;
+    height: 14px;
+    left: 344.57px;
+    top: 560.2px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.select_1 {
+    /* Rectangle 4 */
+    position: absolute;
+    width: 144px;
+    height: 60px;
+    left: 343.57px;
+    top: 234.2px;
+    background: rgba(0, 65, 113, 0.05);
+    border: 3px solid #004171;
+    box-sizing: border-box;
+    border-radius: 30.0663px;
+}
+
+.txt_select_1 {
+    /* 75% */
+    position: absolute;
+    width: 96px;
+    height: 27px;
+    left: 367.57px;
+    top: 248.2px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    text-align: center;
+    color: #004171;
+}
+
+.txt_1_c {
+    /* Cambiar temas */
+    position: absolute;
+    width: 546.86px;
+    height: 13.51px;
+    left: 678.57px;
+    top: 196.2px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: #003F6F;
+}
+
+.txt_small_alt_1_b {
+    /* El alto uso de brillo puede causar irritaciones, molestia o cansancio en la vista. Aumenta el brillo de toda la interfaz a tu gusto! */
+    position: absolute;
+    width: 333px;
+    height: 14px;
+    left: 345.57px;
+    top: 303.2px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_1_d {
+    /* Cambiar temas */
+    position: absolute;
+    width: 546.86px;
+    height: 13.51px;
+    left: 678.57px;
+    top: 196.2px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: #003F6F;
+}
+
+.select_2 {
+    /* Rectangle 6 */
+    position: absolute;
+    width: 235px;
+    height: 60px;
+    left: 678.57px;
+    top: 232.2px;
+    background: rgba(0, 65, 113, 0.05);
+    border: 3px solid #004171;
+    box-sizing: border-box;
+    border-radius: 30.0663px;
+}
+
+.txt_select_2 {
+    /* Tema claro */
+    position: absolute;
+    width: 150px;
+    height: 27px;
+    left: 711.57px;
+    top: 245.2px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    text-align: center;
+    color: #004171;
+}
+
+.img_58 {
+    /* image 58 */
+    position: absolute;
+    width: 33px;
+    height: 33px;
+    left: 861.57px;
+    top: /*280.2px*/ 248.2px;
+    background: url(../images/image_58.png);
+    /*transform: rotate(-90deg);*/
+}
+
+.txt_small_alt_1_c {
+    /* Prueba los temas claro y oscuro! */
+    position: absolute;
+    width: 218px;
+    height: 14px;
+    left: 686.57px;
+    top: 300.2px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.select_3 {
+    /* Rectangle 5 */
+    position: absolute;
+    width: 144px;
+    height: 60px;
+    left: 346.57px;
+    top: 435.57px;
+    background: rgba(0, 65, 113, 0.05);
+    border: 3px solid #004171;
+    box-sizing: border-box;
+    border-radius: 30.0663px;
+}
+
+.txt_select_3 {
+    /* 25% */
+    position: absolute;
+    width: 96px;
+    height: 27px;
+    left: 369.57px;
+    top: 446.2px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    text-align: center;
+    color: #004171;
+}
+
+.txt_alt_3 {
+    /* Tamaño */
+    position: absolute;
+    width: 546.86px;
+    height: 13.51px;
+    left: 347.9px;
+    top: 397.2px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: #003F6F;
+}
+
+.txt_small_alt_2_b {
+    /* Aumenta el tamaño de toda la interfaz a tu gusto! */
+    position: absolute;
+    width: 333px;
+    height: 14px;
+    left: 344.57px;
+    top: 504.2px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.rectangulo_40 {
+    /* Rectangle 3 */
+    position: absolute;
+    width: 334.23px;
+    height: 60.45px;
+    left: 344.57px;
+    top: 568.2px;
+    border: 3px solid #004173;
+    box-sizing: border-box;
+    border-radius: 30.0663px;
+}
+
+.actualizar_informacion_3 {
+    /* Actualizar ajustes */
+    position: absolute;
+    width: 224px;
+    height: 27px;
+    left: 399.72px;
+    top: 581.71px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    text-align: center;
+    color: #003F70;
+}
+
+.txt_small_alt_3 {
+    /* Selecciona la cuenta con la que se realizara el pago */
+    position: absolute;
+    width: 300.72px;
+    height: 13.51px;
+    left: 345px;
+    top: 230px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.img_47_b {
+    /* image 47 */
+    position: absolute;
+    width: 34.42px;
+    height: 34.42px;
+    left: 253px;
+    top: /*193px*/ 194px;
+    background: url(../images/image_47_b.png);
+}
+
+.img_69 {
+    /* image 69 */
+    position: absolute;
+    width: 34.42px;
+    height: 34.42px;
+    left: 253px;
+    top: /*265px*/ 266px;
+    background: url(../images/image_69.png);
+}
+
+.rectangulo_41 {
+    /* image 50 */
+    position: absolute;
+    width: 196.27px;
+    height: 100.98px;
+    left: 345px;
+    top: /*382.98px*/ 283px;
+    background: #FFFFFF;
+    border: 3px solid #004171;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.visa_2 {
+    /* Visa XXXX-5432 */
+    position: absolute;
+    width: /*189.87px*/ 200px;
+    height: 13.51px;
+    left: 351.4px;
+    top: 285.56px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: #003F6F;
+}
+
+.saldos_totales_5 {
+    /* Saldos totales */
+    position: absolute;
+    width: 110.23px;
+    height: 13.51px;
+    left: 349.98px;
+    top: 312.58px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.0672px;
+    line-height: 20px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.dinero_5 {
+    /* $ 1260,00 */
+    position: absolute;
+    width: 96.71px;
+    height: 13.51px;
+    left: 351.4px;
+    top: 341.74px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.0672px;
+    line-height: 20px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.logo_visa_2 {
+    /* image 90 */
+    position: absolute;
+    width: 71.04px;
+    height: 23px;
+    left: 460px;
+    top: 348px;
+    background: url(../images/image_90_b.png);
+}
+
+.rectangulo_42 {
+    /* image 51 */
+    position: absolute;
+    width: 196.27px;
+    height: 100.98px;
+    left: 566.87px;
+    top: /*382.98px*/ 283px;
+    background: #FFFFFF;
+    border: 3px solid #004171;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.diners_2 {
+    /* Diners XXX-254 */
+    position: absolute;
+    width: 189.87px;
+    height: 13.51px;
+    left: 573.27px;
+    top: 285.56px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: #003F6F;
+}
+
+.saldos_totales_6 {
+    /* Saldos totales */
+    position: absolute;
+    width: 110.23px;
+    height: 13.51px;
+    left: 571.85px;
+    top: 312.58px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.0672px;
+    line-height: 20px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.dinero_6 {
+    /* $ 560,34 */
+    position: absolute;
+    width: 96.71px;
+    height: 13.51px;
+    left: 573.27px;
+    top: 341.74px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.0672px;
+    line-height: 20px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.logo_diners_2 {
+    /* image 91 */
+    position: absolute;
+    width: 34.1px;
+    height: 27px;
+    left: 719px;
+    top: 347px;
+    background: url(../images/image_91_b.png);
+}
+
+.rectangulo_43 {
+    /* image 52 */
+    position: absolute;
+    width: 196.27px;
+    height: 100.98px;
+    left: 345px;
+    top: /*503.98px*/ 404px;
+    background: #FFFFFF;
+    border: 3px solid #004171;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.pay_pal_2 {
+    /* Pay-Pal */
+    position: absolute;
+    width: 189.87px;
+    height: 13.51px;
+    left: 351.4px;
+    top: 406.56px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: #003F6F;
+}
+
+.saldos_totales_7 {
+    /* Saldos totales */
+    position: absolute;
+    width: 110.23px;
+    height: 13.51px;
+    left: 349.98px;
+    top: 433.58px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.0672px;
+    line-height: 20px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.dinero_7 {
+    /* $ 236,00 */
+    position: absolute;
+    width: 96.71px;
+    height: 13.51px;
+    left: 351.4px;
+    top: 462.74px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.0672px;
+    line-height: 20px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.logo_pay_pal_2 {
+    /* image 92 */
+    position: absolute;
+    width: 81.7px;
+    height: 23px;
+    left: 451px;
+    top: 475px;
+    background: url(../images/image_92_b.png);
+}
+
+.rectangulo_44 {
+    /* image 105 */
+    position: absolute;
+    width: 196.27px;
+    height: 100.98px;
+    left: 567px;
+    top: /*503.98px*/ 404px;
+    background: #FFFFFF;
+    border: 3px solid #004171;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.anadir_cuenta_1 {
+    /* Añadir cuenta */
+    position: absolute;
+    width: 189.87px;
+    height: 13.51px;
+    left: 573.4px;
+    top: 406.56px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: #003F6F;
+}
+
+.anadir_una_1 {
+    /* Añade una nueva cuenta */
+    position: absolute;
+    width: 131px;
+    height: 14px;
+    left: 573px;
+    top: 434px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.0672px;
+    line-height: 20px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.img_104 {
+    /* image 104 */
+    position: absolute;
+    width: 47px;
+    height: 47px;
+    left: 710px;
+    top: 451px;
+    background: url(../images/image_104.png);
+}
+
+.textbox_small_1 {
+    /* image 49 */
+    position: absolute;
+    width: 334px;
+    height: 35px;
+    left: 345px;
+    top: /*296px*/ 262px;
+    border: /*1.44214px*/ 2px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_transp_small_1 {
+    /* Petrolero */
+    position: absolute;
+    width: 125.95px;
+    height: 9.13px;
+    left: 350.51px;
+    top: 269.47px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.3056px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.img_72 {
+    /* image 72 */
+    position: absolute;
+    width: 28.37px;
+    height: 28.37px;
+    left: 647px;
+    top: 265px;
+    background: url(../images/image_72.png);
+}
+
+.textbox_small_2 {
+    /* image 59 */
+    position: absolute;
+    width: 334px;
+    height: 35px;
+    left: 345px;
+    top: /*351px*/ 317px;
+    border: /*1.44214px*/ 2px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_transp_small_2 {
+    /* Impuestos municipales */
+    position: absolute;
+    width: 180px;
+    height: 10px;
+    left: 351px;
+    top: 324px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.3056px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.img_73 {
+    /* image 73 */
+    position: absolute;
+    width: 28.37px;
+    height: 28.37px;
+    left: 647px;
+    top: 320px;
+    background: url(../images/image_73.png);
+}
+
+.textbox_small_3 {
+    /* image 61 */
+    position: absolute;
+    width: 334px;
+    height: 35px;
+    left: 345px;
+    top: /*406px*/ 372px;
+    border: /*1.44214px*/ 2px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_transp_small_3 {
+    /* Vestimenta */
+    position: absolute;
+    width: 180px;
+    height: 10px;
+    left: 351px;
+    top: 379px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.3056px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.img_74 {
+    /* image 74 */
+    position: absolute;
+    width: 28.37px;
+    height: 28.37px;
+    left: 647px;
+    top: 375px;
+    background: url(../images/image_74.png);
+}
+
+.textbox_small_4 {
+    /* image 62 */
+    position: absolute;
+    width: 334px;
+    height: 35px;
+    left: 345px;
+    top: /*461px*/ 427px;
+    border: /*1.44214px*/ 2px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_transp_small_4 {
+    /* Comida */
+    position: absolute;
+    width: 180px;
+    height: 10px;
+    left: 351px;
+    top: 434px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.3056px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.img_75 {
+    /* image 75 */
+    position: absolute;
+    width: 28.37px;
+    height: 28.37px;
+    left: 647px;
+    top: 429px;
+    background: url(../images/image_75.png);
+}
+
+.textbox_small_5 {
+    /* image 70 */
+    position: absolute;
+    width: 334px;
+    height: 35px;
+    left: 345px;
+    top: /*516px*/ 482px;
+    border: /*1.44214px*/ 2px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_transp_small_5 {
+    /* Uso personal */
+    position: absolute;
+    width: 180px;
+    height: 10px;
+    left: 351px;
+    top: 489px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.3056px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.img_76 {
+    /* image 76 */
+    position: absolute;
+    width: 28.37px;
+    height: 28.37px;
+    left: 647px;
+    top: 485px;
+    background: url(../images/image_76.png);
+}
+
+.textbox_small_6 {
+    /* image 71 */
+    position: absolute;
+    width: 334px;
+    height: 35px;
+    left: 345px;
+    top: /*571px*/ 537px;
+    border: /*1.44214px*/ 2px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_transp_small_6 {
+    /* Otro */
+    position: absolute;
+    width: 180px;
+    height: 10px;
+    left: 351px;
+    top: 544px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.3056px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.img_77 {
+    /* image 77 */
+    position: absolute;
+    width: 28.37px;
+    height: 28.37px;
+    left: 647px;
+    top: 540px;
+    background: url(../images/image_77.png);
+}
+
+.txt_small_1_c {
+    /* 035839567 */
+    position: absolute;
+    width: 180px;
+    height: 10px;
+    left: 351px;
+    top: 267px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.3056px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_small_1_d {
+    /* 035839567 */
+    position: absolute;
+    width: /*180px*/ 290px;
+    height: 10px;
+    left: 351px;
+    top: 267px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.3056px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.img_78 {
+    /* image 78 */
+    position: absolute;
+    width: 28.37px;
+    height: 28.37px;
+    left: 647px;
+    top: /*263px*/ 267px;
+    background: url(../images/image_78.png);
+}
+
+.txt_small_2_b {
+    /* Valor del pago */
+    position: absolute;
+    width: 256.72px;
+    height: 13.51px;
+    left: 345px;
+    top: /*302px*/ 307px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.textbox_small_2_b {
+    /* image 62 */
+    position: absolute;
+    width: 334px;
+    height: 35px;
+    left: 345px;
+    top: /*364px*/ 336px;
+    border: /*1.44214px*/ 2px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_transp_small_2_b {
+    /* $2050 */
+    position: absolute;
+    width: 180px;
+    height: 10px;
+    left: 351px;
+    top: /*337px*/ 343px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.3056px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_transp_small_2_c {
+    /* $2050 */
+    position: absolute;
+    width: /*180px*/ 290px;
+    height: 10px;
+    left: 351px;
+    top: /*337px*/ 343px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.3056px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.img_79 {
+    /* image 79 */
+    position: absolute;
+    width: 28.37px;
+    height: 28.37px;
+    left: 647px;
+    top: /*333px*/ 341px;
+    background: url(../images/image_79.png);
+}
+
+.rectangulo_45 {
+    /* Rectangle 3 */
+    position: absolute;
+    width: 334.23px;
+    height: 60.45px;
+    left: 345px;
+    top: /*385px*/ 393px;
+    border: 3px solid #003F6F;
+    box-sizing: border-box;
+    border-radius: 30.0663px;
+}
+
+.realizar_pago {
+    /* Realizar pago */
+    position: absolute;
+    width: 285.16px;
+    height: 34.13px;
+    left: 369.89px;
+    top: /*398.51px*/ 406px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    text-align: center;
+    color: #004173;
+}
+
+.rectangulo_46 {
+    /* Rectangle 4 */
+    position: absolute;
+    width: 334.23px;
+    height: 60.45px;
+    left: 32px;
+    top: 323px;
+    background: rgba(0, 63, 111, 0.5);
+    border-radius: 30.0663px;
+}
+
+.no_quiero_regresar {
+    /* No, quiero regresar */
+    position: absolute;
+    width: 285.16px;
+    height: 34.13px;
+    left: 56.89px;
+    top: 336.51px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.barra_superior {
+    /* Rectangle 10 */
+    position: absolute;
+    width: 881px;
+    height: 52px;
+    left: 349px;
+    top: 237px;
+    background: #004070;
+}
+
+.tabla_fecha {
+    /* Fecha */
+    position: absolute;
+    width: 75px;
+    height: 14px;
+    left: 382px;
+    top: 254px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.tabla_rubro {
+    /* Rubro */
+    position: absolute;
+    width: 75px;
+    height: 14px;
+    left: 622px;
+    top: 254px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.tabla_codigo {
+    /* Codigo */
+    position: absolute;
+    width: 90px;
+    height: 14px;
+    left: 861px;
+    top: 254px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.tabla_valor {
+    /* Valor */
+    position: absolute;
+    width: 65px;
+    height: 14px;
+    left: 1115px;
+    top: 254px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.tabla_1_1 {
+    /* 18/8/2021 */
+    position: absolute;
+    width: 133px;
+    height: 14px;
+    left: 352px;
+    top: 316px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.tabla_1_2 {
+    /* 13/8/2021 */
+    position: absolute;
+    width: 133px;
+    height: 14px;
+    left: 352px;
+    top: 368px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.tabla_1_3 {
+    /* 12/8/2021 */
+    position: absolute;
+    width: 133px;
+    height: 14px;
+    left: 354px;
+    top: 420px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.tabla_1_4 {
+    /* 06/8/2021 */
+    position: absolute;
+    width: 133px;
+    height: 14px;
+    left: 349px;
+    top: 472px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.tabla_1_5 {
+    /* 02/8/2021 */
+    position: absolute;
+    width: 133px;
+    height: 14px;
+    left: 349px;
+    top: 524px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.tabla_2_1 {
+    /* Petrolero */
+    position: absolute;
+    width: 113px;
+    height: 14px;
+    left: 603px;
+    top: 316px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.tabla_2_2 {
+    /* Impuestos */
+    position: absolute;
+    width: 131px;
+    height: 14px;
+    left: 594px;
+    top: 368px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.tabla_2_3 {
+    /* Vestimenta */
+    position: absolute;
+    width: 143px;
+    height: 14px;
+    left: 587px;
+    top: 420px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.tabla_2_4 {
+    /* Petrolero */
+    position: absolute;
+    width: 113px;
+    height: 14px;
+    left: 598px;
+    top: 472px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.tabla_2_5 {
+    /* Impuestos */
+    position: absolute;
+    width: 131px;
+    height: 14px;
+    left: 594px;
+    top: 524px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.tabla_3_1 {
+    /* 20145 */
+    position: absolute;
+    width: 81px;
+    height: 14px;
+    left: 866px;
+    top: 316px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.tabla_3_2 {
+    /* 3410567 */
+    position: absolute;
+    width: 110px;
+    height: 14px;
+    left: 852px;
+    top: 368px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.tabla_3_3 {
+    /* 2354 */
+    position: absolute;
+    width: 64px;
+    height: 14px;
+    left: 875px;
+    top: 420px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.tabla_3_4 {
+    /* 3477 */
+    position: absolute;
+    width: 64px;
+    height: 14px;
+    left: 875px;
+    top: 472px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.tabla_3_5 {
+    /* 214 */
+    position: absolute;
+    width: 48px;
+    height: 14px;
+    left: 883px;
+    top: 524px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.tabla_4_1 {
+    /* $759 */
+    position: absolute;
+    width: 63px;
+    height: 14px;
+    left: 1117px;
+    top: 316px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.tabla_4_2 {
+    /* $2500 */
+    position: absolute;
+    width: 79px;
+    height: 14px;
+    left: 1109px;
+    top: 368px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.tabla_4_3 {
+    /* $16400 */
+    position: absolute;
+    width: 98px;
+    height: 14px;
+    left: 1103px;
+    top: 420px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.tabla_4_4 {
+    /* $745 */
+    position: absolute;
+    width: 64px;
+    height: 14px;
+    left: 1115px;
+    top: 472px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.tabla_4_5 {
+    /* $65 */
+    position: absolute;
+    width: 48px;
+    height: 14px;
+    left: 1123px;
+    top: 524px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.rectangulo_47 {
+    /* Rectangle 3 */
+    position: absolute;
+    width: 334.23px;
+    height: 60.45px;
+    left: 344.9px;
+    top: 613px;
+    background: #004171;
+    border-radius: 30.0663px;
+}
+
+.historial_completo {
+    /* Historial completo */
+    position: absolute;
+    width: 285.16px;
+    height: 34.13px;
+    left: 369.79px;
+    top: 626.51px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.img_46_b {
+    /* image 46 */
+    position: absolute;
+    width: 34.42px;
+    height: 39.18px;
+    left: 253px;
+    top: 193px;
+    background: url(../images/image_46_b.png);
+}
+
+.side_2_b {
+    /* image 70 */
+    position: absolute;
+    width: 331px;
+    height: 78px;
+    left: -34px;
+    top: /*334px*/ 257px;
+    background: #FFFFFF;
+    border-radius: 30px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.img_69_b {
+    /* image 69 */
+    position: absolute;
+    width: 34.42px;
+    height: 34.42px;
+    left: 253px;
+    top: /*278px*/ 279px;
+    background: url(../images/image_69.png);
+}
+
+.textbox_xl_1 {
+    /* Rectangle 7 */
+    position: absolute;
+    width: 567px;
+    height: 70px;
+    left: 350px;
+    top: 285px;
+    border: 3px solid rgba(0, 63, 112, 0.7);
+    box-sizing: border-box;
+    border-radius: 42.4397px;
+}
+
+.img_80 {
+    /* image 80 */
+    position: absolute;
+    width: 47.69px;
+    height: 50.3px;
+    left: 361px;
+    top: 297px;
+    background: url(../images/image_80.png);
+}
+
+.txt_transp_xl_1 {
+    /* Usuario... */
+    position: absolute;
+    width: /*125.95px*/ 470px;
+    height: 9.13px;
+    left: 417px;
+    top: 303px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_3_b {
+    /* Ultimas personas */
+    position: absolute;
+    width: 546.86px;
+    height: 13.51px;
+    left: 345px;
+    top: 375px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: #003F6F;
+}
+
+.perfil_1 {
+    /* image 81 */
+    position: absolute;
+    width: 269px;
+    height: 65px;
+    left: 350px;
+    top: /*481px*/ 417px;
+    background: #E5E5E5;
+    border: 1px solid #003F72;
+    box-sizing: border-box;
+    border-radius: 30px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.img_perfil_1 {
+    /* Ellipse 1 */
+    /*position: absolute;
+    width: 53px;
+    height: 53px;
+    left: 356px;
+    top: 422px;
+    background: #FFFFFF;*/
+}
+
+.txt_img_perfil_1 {
+    /* J */
+    position: absolute;
+    width: 27px;
+    height: 39px;
+    left: 369px;
+    top: 422px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 56px;
+    color: #457193;
+}
+
+.nombre_perfil_1 {
+    /* JoaLobito22 */
+    position: absolute;
+    width: 256.72px;
+    height: 13.51px;
+    left: 417px;
+    top: 435px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.perfil_2 {
+    /* image 82 */
+    position: absolute;
+    width: 269px;
+    height: 65px;
+    left: 643px;
+    top: /*480px*/ 416px;
+    background: #E5E5E5;
+    border: 1px solid #003F72;
+    box-sizing: border-box;
+    border-radius: 30px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.img_perfil_2 {
+    /* Ellipse 2 */
+    /*position: absolute;
+    width: 53px;
+    height: 53px;
+    left: 649px;
+    top: 421px;
+    background: #FFFFFF;*/
+}
+
+.txt_img_perfil_2 {
+    /* R */
+    position: absolute;
+    width: 27px;
+    height: 39px;
+    left: 661px;
+    top: 421px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 56px;
+    color: #457193;
+}
+
+.nombre_perfil_2 {
+    /* RamonZa9 */
+    position: absolute;
+    width: 256.72px;
+    height: 13.51px;
+    left: 710px;
+    top: 434px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.perfil_3 {
+    /* image 83 */
+    position: absolute;
+    width: 269px;
+    height: 65px;
+    left: 350px;
+    top: /*566px*/ 502px;
+    background: #E5E5E5;
+    border: 1px solid #003F72;
+    box-sizing: border-box;
+    border-radius: 30px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.img_perfil_3 {
+    /* pngwing 2 */
+    position: absolute;
+    width: 53.51px;
+    height: 53.51px;
+    left: 356px;
+    top: 507px;
+    background: url(../images/pngwing_2.png);
+}
+
+.nombre_perfil_3 {
+    /* MrTochu */
+    position: absolute;
+    width: 256.72px;
+    height: 13.51px;
+    left: 417px;
+    top: 520px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.perfil_4 {
+    /* image 84 */
+    position: absolute;
+    width: 269px;
+    height: 65px;
+    left: 643px;
+    top: /*566px*/ 502px;
+    background: #E5E5E5;
+    border: 1px solid #003F72;
+    box-sizing: border-box;
+    border-radius: 30px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.img_perfil_4 {
+    /* Ellipse 3 */
+    position: absolute;
+    width: 53px;
+    height: 53px;
+    left: 649px;
+    top: 507px;
+    background: url(../images/erling.png);
+}
+
+.nombre_perfil_4 {
+    /* Erling9Haaland */
+    position: absolute;
+    width: 256.72px;
+    height: 13.51px;
+    left: 710px;
+    top: 520px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.perfil_5 {
+    /* image 85 */
+    position: absolute;
+    width: 269px;
+    height: 65px;
+    left: 350px;
+    top: /*651px*/ 587px;
+    background: #E5E5E5;
+    border: 1px solid #003F72;
+    box-sizing: border-box;
+    border-radius: 30px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.img_perfil_5 {
+    /* pngwing 3 */
+    position: absolute;
+    width: 53.51px;
+    height: 53.51px;
+    left: 356px;
+    top: 591px;
+    background: url(../images/pngwing_2.png);
+}
+
+.nombre_perfil_5 {
+    /* Marc347 */
+    position: absolute;
+    width: 256.72px;
+    height: 13.51px;
+    left: 417px;
+    top: 605px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.img_86 {
+    /* image 86 */
+    position: absolute;
+    width: 50.3px;
+    height: 50.3px;
+    left: 363px;
+    top: 292px;
+    background: url(../images/image_86.png);
+}
+
+.rectangulo_48 {
+    /* Rectangle 3 */
+    position: absolute;
+    width: 334.23px;
+    height: 60.45px;
+    left: 350px;
+    top: 375px;
+    border: 3px solid #004173;
+    box-sizing: border-box;
+    border-radius: 30.0663px;
+}
+
+.realizar_transferencia {
+    /* Realizar transferencia */
+    position: absolute;
+    width: 285.16px;
+    height: 34.13px;
+    left: 374.89px;
+    top: 388.51px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    text-align: center;
+    color: #003F70;
+}
+
+.img_48_b {
+    /* image 48 */
+    position: absolute;
+    width: 34.42px;
+    height: 34.42px;
+    left: 253px;
+    top: 193px;
+    background: url(../images/image_48_b.png);
+}
+
+.img_79_b {
+    /* image 79 */
+    position: absolute;
+    width: 50.3px;
+    height: 50.3px;
+    left: 363px;
+    top: 295px;
+    background: url(../images/image_79_b.png);
+}
+
+.txt_small_alt_3_b {
+    /* Selecciona el tipo de cuotas */
+    position: absolute;
+    width: 226px;
+    height: 14px;
+    left: 520px;
+    top: 369px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.rectangulo_49 {
+    /* image 62 */
+    position: absolute;
+    width: 131px;
+    height: 35px;
+    left: 491px;
+    top: /*431px*/ 397px;
+    border: /*1.44214px*/ 2px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.img_99 {
+    /* image 99 */
+    position: absolute;
+    width: 26.37px;
+    height: 26.37px;
+    left: 496px;
+    top: /*400px*/ 401px;
+    background: url(../images/image_99.png);
+}
+
+.mensual {
+    /* Mensual */
+    position: absolute;
+    width: 83px;
+    height: 10px;
+    left: 515px;
+    top: 404px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.3056px;
+    line-height: 20px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.rectangulo_50 {
+    /* image 94 */
+    position: absolute;
+    width: 131px;
+    height: 35px;
+    left: 645px;
+    top: /*431px*/ 397px;
+    border: /*1.44214px*/ 2px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.img_100 {
+    /* image 100 */
+    position: absolute;
+    width: 26.37px;
+    height: 26.37px;
+    left: 650px;
+    top: /*400px*/ 401px;
+    background: url(../images/image_100.png);
+}
+
+.anual {
+    /* Anual */
+    position: absolute;
+    width: 83px;
+    height: 10px;
+    left: 669px;
+    top: 404px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.3056px;
+    line-height: 20px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.img_93 {
+    /* image 93 */
+    position: absolute;
+    width: 99px;
+    height: 99px;
+    left: 584px;
+    top: 441px;
+    background: url(../images/image_93.png);
+}
+
+.rectangulo_51 {
+    /* Rectangle 3 */
+    position: absolute;
+    width: 334.23px;
+    height: 60.45px;
+    left: 466px;
+    top: 613px;
+    border: 3px solid #004171;
+    box-sizing: border-box;
+    border-radius: 30.0663px;
+}
+
+.avanzar {
+    /* Avanzar */
+    position: absolute;
+    width: 285.16px;
+    height: 34.13px;
+    left: 490.89px;
+    top: 626.51px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    text-align: center;
+    color: #003F70;
+}
+
+.dinero_5_b {
+    /* $ 10416,67/1 */
+    position: absolute;
+    width: 182px;
+    height: 13px;
+    left: 351px;
+    top: 342px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.0672px;
+    line-height: 20px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.img_94 {
+    /* image 94 */
+    position: absolute;
+    width: 34.1px;
+    height: 34.1px;
+    left: 504px;
+    top: 289px;
+    background: url(../images/image_94.png);
+}
+
+.dinero_6_b {
+    /* $ 10844,67/3 */
+    position: absolute;
+    width: 166px;
+    height: 13px;
+    left: 573px;
+    top: 342px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.0672px;
+    line-height: 20px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.img_95 {
+    /* image 95 */
+    position: absolute;
+    width: 34.1px;
+    height: 34.1px;
+    left: 729px;
+    top: 289px;
+    background: url(../images/image_95.png);
+}
+
+.dinero_7_b {
+    /* $ 11507,89/6 */
+    position: absolute;
+    width: 158px;
+    height: 13px;
+    left: 351px;
+    top: 463px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.0672px;
+    line-height: 20px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.img_101 {
+    /* image 101 */
+    position: absolute;
+    width: 34.1px;
+    height: 34.1px;
+    left: 501px;
+    top: 408px;
+    background: url(../images/image_101.png);
+}
+
+.dinero_8 {
+    /* $ 12196,47/9 */
+    position: absolute;
+    width: 158px;
+    height: 13px;
+    left: 573px;
+    top: 463px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.0672px;
+    line-height: 20px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.img_102 {
+    /* image 102 */
+    position: absolute;
+    width: 34.1px;
+    height: 34.1px;
+    left: 722px;
+    top: 408px;
+    background: url(../images/image_102.png);
+}
+
+.rectangulo_52 {
+    /* image 98 */
+    position: absolute;
+    width: 196.27px;
+    height: 100.98px;
+    left: 345px;
+    top: /*624.98px*/ 525px;
+    border: 3px solid #004171;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.doce_cuotas {
+    /* 12 cuotas */
+    position: absolute;
+    width: 189.87px;
+    height: 13.51px;
+    left: 351.4px;
+    top: 527.56px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: #003F6F;
+}
+
+.dinero_9 {
+    /* $ 12910,21/12 */
+    position: absolute;
+    width: 158px;
+    height: 13px;
+    left: 351px;
+    top: 584px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.0672px;
+    line-height: 20px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.img_103 {
+    /* image 103 */
+    position: absolute;
+    width: 42.1px;
+    height: 42.1px;
+    left: 499px;
+    top: 524px;
+    background: url(../images/image_103.png);
+}
+
+.rectangulo_53 {
+    /* Rectangle 3 */
+    position: absolute;
+    width: 334.23px;
+    height: 60.45px;
+    left: 345px;
+    top: 314px;
+    border: 3px solid #004171;
+    box-sizing: border-box;
+    border-radius: 30.0663px;
+}
+
+.solicitar_prestamo {
+    /* Solicitar prestamo */
+    position: absolute;
+    width: 285.16px;
+    height: 34.13px;
+    left: 369.89px;
+    top: 327.51px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    text-align: center;
+    color: #003F70;
+}
+
+.img_67_b {
+    /* image 67 */
+    position: absolute;
+    width: 34.42px;
+    height: 34.42px;
+    left: 253px;
+    top: 193px;
+    background: url(../images/image_67_b.png);
+}
+
+.txt_side_2_b {
+    /* Historiales de cuentas */
+    position: absolute;
+    width: 238px;
+    height: 13px;
+    left: 7px;
+    top: 265px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.rectangulo_54 {
+    /* image 50 */
+    position: absolute;
+    width: 237.83px;
+    height: 122.36px;
+    left: 345px;
+    top: /*357.36px*/ 236px;
+    background: #FFFFFF;
+    border: 3.63519px solid #004171;
+    box-sizing: border-box;
+    border-radius: 12.1173px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.visa_3 {
+    /* Visa XXXX-5432 */
+    position: absolute;
+    width: 230.07px;
+    height: 16.37px;
+    left: 352.75px;
+    top: 239.31px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 31.0212px;
+    line-height: 36px;
+    color: #003F6F;
+}
+
+.saldos_totales_8 {
+    /* Saldos totales */
+    position: absolute;
+    width: 133.56px;
+    height: 16.37px;
+    left: 351.03px;
+    top: 272.05px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20.6808px;
+    line-height: 24px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.dinero_10 {
+    /* $ 1260,00 */
+    position: absolute;
+    width: 117.19px;
+    height: 16.37px;
+    left: 352.75px;
+    top: 307.38px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20.6808px;
+    line-height: 24px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.logo_visa_3 {
+    /* image 90 */
+    position: absolute;
+    width: 86.09px;
+    height: 27.87px;
+    left: 484.35px;
+    top: 314.97px;
+    background: url(../images/image_90_c.png);
+}
+
+.rectangulo_55 {
+    /* image 51 */
+    position: absolute;
+    width: 237.83px;
+    height: 122.36px;
+    left: 613.85px;
+    top: /*357.36px*/ 236px;
+    background: #FFFFFF;
+    border: 3.63519px solid #004171;
+    box-sizing: border-box;
+    border-radius: 12.1173px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.diners_3 {
+    /* Diners XXX-254 */
+    position: absolute;
+    width: 230.07px;
+    height: 16.37px;
+    left: 621.6px;
+    top: 239.31px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 31.0212px;
+    line-height: 36px;
+    color: #003F6F;
+}
+
+.saldos_totales_9 {
+    /* Saldos totales */
+    position: absolute;
+    width: 133.56px;
+    height: 16.37px;
+    left: 619.88px;
+    top: 272.05px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20.6808px;
+    line-height: 24px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.dinero_11 {
+    /* $ 560,34 */
+    position: absolute;
+    width: 117.19px;
+    height: 16.37px;
+    left: 621.6px;
+    top: 307.38px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20.6808px;
+    line-height: 24px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.logo_diners_3 {
+    /* image 91 */
+    position: absolute;
+    width: 41.32px;
+    height: 32.72px;
+    left: 798.19px;
+    top: 313.76px;
+    background: url(../images/image_91_c.png);
+}
+
+.rectangulo_56 {
+    /* image 52 */
+    position: absolute;
+    width: 237.83px;
+    height: 122.36px;
+    left: 345px;
+    top: /*503.98px*/ 382.62px;
+    background: #FFFFFF;
+    border: 3.63519px solid #004171;
+    box-sizing: border-box;
+    border-radius: 12.1173px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.pay_pal_3 {
+    /* Pay-Pal */
+    position: absolute;
+    width: 230.07px;
+    height: 16.37px;
+    left: 352.76px;
+    top: 385.93px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 31.0212px;
+    line-height: 36px;
+    color: #003F6F;
+}
+
+.saldos_totales_10 {
+    /* Saldos totales */
+    position: absolute;
+    width: 133.56px;
+    height: 16.37px;
+    left: 351.03px;
+    top: 418.67px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20.6808px;
+    line-height: 24px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.dinero_12 {
+    /* $ 236,00 */
+    position: absolute;
+    width: 117.19px;
+    height: 16.37px;
+    left: 352.76px;
+    top: 454px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20.6808px;
+    line-height: 24px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.logo_pay_pal_3 {
+    /* image 92 */
+    position: absolute;
+    width: 98.99px;
+    height: 27.87px;
+    left: 473.44px;
+    top: 468.86px;
+    background: url(../images/image_92_c.png);
+}
+
+.rectangulo_57 {
+    /* image 105 */
+    position: absolute;
+    width: 237.83px;
+    height: 122.36px;
+    left: 614px;
+    top: /*503.98px*/ 382.62px;
+    background: #FFFFFF;
+    border: 3.63519px solid #004171;
+    box-sizing: border-box;
+    border-radius: 12.1173px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.anadir_cuenta_2 {
+    /* Añadir cuenta */
+    position: absolute;
+    width: 230.07px;
+    height: 16.37px;
+    left: 621.76px;
+    top: 385.93px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 31.0212px;
+    line-height: 36px;
+    color: #003F6F;
+}
+
+.anadir_una_2 {
+    /* Añade una nueva cuenta */
+    position: absolute;
+    width: 158.74px;
+    height: 16.96px;
+    left: 621.27px;
+    top: 419.18px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20.6808px;
+    line-height: 24px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.img_104_b {
+    /* image 104 */
+    position: absolute;
+    width: 56.95px;
+    height: 56.95px;
+    left: 787.28px;
+    top: 439.78px;
+    background: url(../images/image_104_b.png);
+}
+
+.txt_xl_1 {
+    /* Visa XXXX-5432 */
+    position: absolute;
+    width: 865.76px;
+    height: 21.39px;
+    left: 344.9px;
+    top: 196.27px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40.5297px;
+    line-height: 47px;
+    color: #003F6F;
+}
+
+.logo_visa_4 {
+    /* image 90 */
+    position: absolute;
+    width: 112.47px;
+    height: 36.41px;
+    left: 637.94px;
+    top: 197.42px;
+    background: url(../images/image_90_d.png);
+}
+
+.txt_xl_2 {
+    /* Saldos totales */
+    position: absolute;
+    width: 211.45px;
+    height: 25.92px;
+    left: 345.06px;
+    top: 244.92px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32.7407px;
+    line-height: 38px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_xl_3 {
+    /* $ 1260,00 */
+    position: absolute;
+    width: 185.53px;
+    height: 25.92px;
+    left: 345.06px;
+    top: 286.08px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32.7407px;
+    line-height: 38px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.rectangulo_58 {
+    /* Rectangle 3 */
+    position: absolute;
+    width: 334.23px;
+    height: 60.45px;
+    left: 345px;
+    top: 364px;
+    border: 3px solid #004171;
+    box-sizing: border-box;
+    border-radius: 30.0663px;
+}
+
+.anadir_fondos {
+    /* Añadir fondos */
+    position: absolute;
+    width: 285.16px;
+    height: 34.13px;
+    left: 369.89px;
+    top: 377.51px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    text-align: center;
+    color: #003F70;
+}
+
+.img_79_c {
+    /* image 79 */
+    position: absolute;
+    width: 61.8px;
+    height: /*61.8px*/ 58px;
+    left: 365.97px;
+    top: /*297.29px*/ 298.29px;
+    background: url(../images/image_79_b.png);
+}
+
+.txt_xl_alt_1 {
+    /* Visa XXXX-5432 */
+    position: absolute;
+    width: 230.07px;
+    height: 16.37px;
+    left: 352.75px;
+    top: 239.31px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 31.0212px;
+    line-height: 36px;
+    color: #003F6F;
+}
+
+.logo_visa_5 {
+    /* image 90 */
+    position: absolute;
+    width: 112.47px;
+    height: 36.41px;
+    left: 575px;
+    top: 232px;
+    background: url(../images/image_90_e.png);
+}
+
+.txt_alt_4 {
+    /* Saldo total */
+    position: absolute;
+    width: 159.25px;
+    height: 19.52px;
+    left: 353px;
+    top: 379px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24.6579px;
+    line-height: 29px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_alt_5 {
+    /* $ 5358,00 */
+    position: absolute;
+    width: 214.62px;
+    height: 20.27px;
+    left: 355.38px;
+    top: 420.73px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24.6579px;
+    line-height: 29px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.rectangulo_59 {
+    /* Rectangle 3 */
+    position: absolute;
+    width: 334.23px;
+    height: 60.45px;
+    left: 353px;
+    top: 483px;
+    border: 3px solid #004171;
+    box-sizing: border-box;
+    border-radius: 30.0663px;
+}
+
+.anadir_fondos_2 {
+    /* Añadir fondos */
+    position: absolute;
+    width: 285.16px;
+    height: 34.13px;
+    left: 377.89px;
+    top: 496.51px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    text-align: center;
+    color: #003F70;
+}
+
+.txt_alt_6 {
+    /* Introduce el numero de identificacion de la cuenta */
+    position: absolute;
+    width: 343px;
+    height: 18.05px;
+    left: 345px;
+    top: 227.73px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24.0497px;
+    line-height: 28px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.textbox_xl_1_b {
+    /* Rectangle 7 */
+    position: absolute;
+    width: 696.6px;
+    height: 86px;
+    left: 350px;
+    top: 285px;
+    border: 3.68571px solid #003F70;
+    box-sizing: border-box;
+    border-radius: 52.1402px;
+}
+
+.txt_transp_xl_1_b {
+    /* XX-126-5797 */
+    position: absolute;
+    width: 255.54px;
+    height: 11.06px;
+    left: 432.31px;
+    top: 307.11px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 29.4857px;
+    line-height: 35px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.img_108 {
+    /* image 108 */
+    position: absolute;
+    width: 61.8px;
+    height: 61.8px;
+    left: 365.97px;
+    top: 297.29px;
+    background: url(../images/image_108.png);
+}
+
+.logo_visa_xl {
+    /* image 90 */
+    position: absolute;
+    width: 171.1px;
+    height: 55.39px;
+    left: 354px;
+    top: 295px;
+    background: url(../images/image_90_f.png);
+    border: 1.7305px solid rgba(0, 63, 112, 0.7);
+    box-sizing: border-box;
+    border-radius: 5.76832px;
+}
+
+.logo_pay_pal_xl {
+    /* image 92 */
+    position: absolute;
+    width: 196.76px;
+    height: 55.39px;
+    left: 546.66px;
+    top: 295px;
+    background: url(../images/image_92_d.png);
+    border: 1.7305px solid rgba(0, 63, 112, 0.7);
+    box-sizing: border-box;
+    border-radius: 5.76832px;
+}
+
+.logo_diners_xl {
+    /* image 91 */
+    position: absolute;
+    width: 69.96px;
+    height: 55.39px;
+    left: 764.7px;
+    top: 295px;
+    background: url(../images/image_91_d.png);
+    border: 1.7305px solid rgba(0, 63, 112, 0.7);
+    box-sizing: border-box;
+    border-radius: 5.76832px;
+}
+
+.logo_mastercard_xl {
+    /* image 109 */
+    position: absolute;
+    width: 171.32px;
+    height: 83.06px;
+    left: 354px;
+    top: 360.76px;
+    background: url(../images/image_109.png);
+    border: 1.7305px solid rgba(0, 63, 112, 0.7);
+    box-sizing: border-box;
+    border-radius: 5.76832px;
+}
+
+.logo_american_express_xl {
+    /* image 110 */
+    position: absolute;
+    width: 194.39px;
+    height: 83.06px;
+    left: 548.97px;
+    top: 360.76px;
+    background: url(../images/image_110.png);
+    border: 1.7305px solid rgba(0, 63, 112, 0.7);
+    box-sizing: border-box;
+    border-radius: 5.76832px;
+}
+
+.logo_mercadopago_xl {
+    /* image 111 */
+    position: absolute;
+    width: 84.22px;
+    height: 84.22px;
+    left: 757.78px;
+    top: 359.61px;
+    background: url(../images/image_111.png);
+    border: 1.7305px solid rgba(0, 63, 112, 0.7);
+    box-sizing: border-box;
+    border-radius: 5.76832px;
+}
+
+.logo_uala_xl {
+    /* image 112 */
+    position: absolute;
+    width: 86.5px;
+    height: 86.5px;
+    left: 522px;
+    top: /*434px*/ 454px;
+    background: url(../images/image_112.png);
+    border: 1.5px solid rgba(0, 63, 112, 0.7);
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.txt_alt_7 {
+    /* Mi cuenta no esta a cargo de ninguna de estas empresas */
+    position: absolute;
+    width: 343px;
+    height: 18.05px;
+    left: 354px;
+    top: 559px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.img_79_d {
+    /* image 79 */
+    position: absolute;
+    width: 61.8px;
+    height: 61.8px;
+    left: 365.97px;
+    top: 297.29px;
+    background: url(../images/image_79_d.png);
+}
+
+.txt_small_alt_4 {
+    /* Ten cuidado al poner el saldo, si se introduce un saldo equivocado, la cuenta sera cancelada */
+    position: absolute;
+    width: 697px;
+    height: 18px;
+    left: 350px;
+    top: /*458px*/ 459px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.img_38_b {
+    /* image 38 */
+    position: absolute;
+    width: 1400px;
+    height: /*801px*/ 694px;
+    left: 0px;
+    top: /*800px*/ 106px;
+    background: linear-gradient(321.28deg, #004071 22.25%, #FFFFFF 146.03%);
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.img_118 {
+    /* image 118 */
+    position: absolute;
+    width: 1401.54px;
+    height: /*787px*/ 694px;
+    left: 0px;
+    top: 105px;
+    background: url(../images/image_118.png);
+}
+
+.img_119 {
+    /* image 119 */
+    position: absolute;
+    width: 1400px;
+    height: 700px;
+    left: 0px;
+    top: 105px;
+    background: url(../images/image_119.png);
+}
+
+.img_116 {
+    /* image 116 */
+    position: absolute;
+    width: 1400px;
+    height: /*933.79px*/ 763px;
+    left: 0px;
+    top: 38px;
+    background: url(../images/image_116.png);
+}
+
+.img_114 {
+    /* image 114 */
+    position: absolute;
+    width: /*1408.24px*/ 1400px;
+    height: /*940px*/ 752px;
+    left: 0px;
+    top: 48px;
+    background: url(../images/image_114.png);
+}
+
+.img_42_c {
+    /* image 42 */
+    position: absolute;
+    width: 1400px;
+    height: 155px;
+    left: 0px;
+    top: /*260px*/ 109px;
+    background: #FFFFFF;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_bienvenido_b {
+    /* Día del padre ¡festajalo junto a tu familia! */
+    position: absolute;
+    width: 876px;
+    height: 56px;
+    left: 32px;
+    top: 113px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45.6791px;
+    line-height: 54px;
+    color: #004072;
+}
+
+.subtext_7 {
+    /* Por el día del padre, ¡estamos dando una bonificacion de $200 a todos los usuarios de Bankame! */
+    position: absolute;
+    width: 774px;
+    height: 105px;
+    left: 32px;
+    top: 169px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30.1678px;
+    line-height: 35px;
+    color: #004071;
+}
+
+.txt_bienvenido_c {
+    /* Bankame, el primer home banking inclusivo */
+    position: absolute;
+    width: 1060px;
+    height: 56px;
+    left: 32px;
+    top: 113px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45.6791px;
+    line-height: 54px;
+    color: #004072;
+}
+
+.img_120 {
+    /* image 120 */
+    position: absolute;
+    width: /*1401.67px*/ 1400px;
+    height: /*841px*/ 628px;
+    left: 0px;
+    top: /*169px*/ 174px;
+    background: url(../images/image_120.png);
+}
+
+.img_117 {
+    /* image 117 */
+    position: absolute;
+    width: 1400px;
+    height: /*786.95px*/ 694px;
+    left: 0px;
+    top: 105px;
+    background: url(../images/image_117.png);
+}
+
+.img_117_b {
+    /* image 117 */
+    position: absolute;
+    width: 1400px;
+    height: /*786.95px*/ 696px;
+    left: 0px;
+    top: 105px;
+    background: url(../images/image_117_b.png);
+}
+
+.txt_cvu_encontrada {
+    /* CVU encontrada: */
+    position: absolute;
+    width: 885px;
+    height: 83px;
+    left: 32px;
+    top: 188px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34.1343px;
+    line-height: 40px;
+    color: #FFFFFF;
+}
+
+.perfil_encontrado {
+    /* JoacoLobito22 */
+    position: absolute;
+    width: 190px;
+    height: 34px;
+    left: 32px;
+    top: 237px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    color: #FFFFFF;
+}
+
+.marco_imagen_perfil_encontrado {
+    /* image 46 */
+    position: absolute;
+    width: 180px;
+    height: 167.88px;
+    left: 32px;
+    top: /*446.88px*/ 279px;
+    border: 2.1334px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.imagen_perfil_encontrado {
+    /* Ellipse 1 
+    position: absolute;
+    width: 156px;
+    height: 156px;
+    left: 44px;
+    top: 285px;
+    background: #FFFFFF;*/
+    /* image 46 */
+
+    position: absolute;
+    width: 180px;
+    height: 167.88px;
+    left: /*212px*/ 32px;
+    top: 279px;
+    background: url(../images/image_129.png);
+    /*border: 2.1334px solid #0010C4;*/
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.txt_j {
+    /* J */
+    position: absolute;
+    width: 79.47px;
+    height: 114.79px;
+    left: 82.26px;
+    top: 285px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 141.283px;
+    line-height: 166px;
+    color: #457193;
+}
+
+.txt_nombre {
+    /* Nombre: */
+    position: absolute;
+    width: 885px;
+    height: 83px;
+    left: 32px;
+    top: 461px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34.1343px;
+    line-height: 40px;
+    color: #FFFFFF;
+}
+
+.img_121 {
+    /* image 121 */
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 171px;
+    top: 463px;
+    background: url(../images/image_121.png);
+}
+
+.rectangulo_60 {
+    /* Rectangle 4 
+    position: absolute;
+    width: 171px;
+    height: 30.93px;
+    left: 22px;
+    top: 512px;
+    background: #FFFFFF;
+    border-radius: 15.3826px;*/
+    /* Rectangle 4 */
+    position: absolute;
+    width: 337px;
+    height: 31px;
+    left: 22px;
+    top: 512px;
+    background: #FFFFFF;
+    border-radius: 15.3826px;
+}
+
+.nombre_perfil_encontrado {
+    /* Joaquin */
+    position: absolute;
+    width: /*190px*/ 350px;
+    height: 34px;
+    left: 32px;
+    top: 510px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    color: #003F70;
+}
+
+.txt_cbu {
+    /* CBU: */
+    position: absolute;
+    width: 885px;
+    height: 83px;
+    left: 384px;
+    top: 461px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34.1343px;
+    line-height: 40px;
+    color: #FFFFFF;
+}
+
+.img_123 {
+    /* image 123 */
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 463px;
+    top: 463px;
+    background: url(../images/image_123.png);
+}
+
+.rectangulo_61 {
+    /* Rectangle 6 
+    position: absolute;
+    width: 311px;
+    height: 31px;
+    left: 222px;
+    top: 512px;
+    background: #FFFFFF;
+    border-radius: 15.3826px;*/
+    /* Rectangle 9 */
+    position: absolute;
+    width: /*311px*/ 365px;
+    height: 31px;
+    left: 374px;
+    top: 512px;
+    background: #FFFFFF;
+    border-radius: 15.3826px;
+}
+
+.cbu_encontrada {
+    /* 452386456835737 */
+    position: absolute;
+    width: 291px;
+    height: 34px;
+    left: 384px;
+    top: 510px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    color: #003F70;
+}
+
+.txt_alias {
+    /* Apellido: */
+    position: absolute;
+    width: 885px;
+    height: 83px;
+    left: 32px;
+    top: 552px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34.1343px;
+    line-height: 40px;
+    color: #FFFFFF;
+}
+
+.img_122 {
+    /* image 122 */
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 110px;
+    top: 555px;
+    background: url(../images/image_122.png);
+}
+
+.rectangulo_62 {
+    /* Rectangle 5 */
+    position: absolute;
+    width: 337px;
+    height: 31px;
+    left: 22px;
+    top: 603px;
+    background: #FFFFFF;
+    border-radius: 15.3826px;
+}
+
+.alias_encontrado {
+    /* Elbaul */
+    position: absolute;
+    width: 190px;
+    height: 34px;
+    left: 32px;
+    top: 601px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    color: #003F70;
+}
+
+.txt_banco {
+    /* Banco: */
+    position: absolute;
+    width: 885px;
+    height: 83px;
+    left: 384px;
+    top: 552px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34.1314px;
+    line-height: 40px;
+    color: #FFFFFF;
+}
+
+.img_67_c {
+    /* image 67 */
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 494px;
+    top: 556px;
+    background: url(../images/image_67_b.png);
+}
+
+.rectangulo_63 {
+    /* Rectangle 7 */
+    position: absolute;
+    width: /*311px*/ 365px;
+    height: 31px;
+    left: 374px;
+    top: 603px;
+    background: #FFFFFF;
+    border-radius: 15.3826px;
+}
+
+.banco_encontrado {
+    /* MasterCard */
+    position: absolute;
+    width: 190px;
+    height: 34px;
+    left: 384px;
+    top: 601px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 33px;
+    color: #003F70;
+}
+
+.logo_mastercard_small {
+    /* image 109 */
+    position: absolute;
+    width: 141px;
+    height: 26px;
+    left: 386px;
+    top: 606px;
+    background: url(../images/image_109_b.png);
+    border-radius: 5.76832px;
+}
+
+.es_la_cvu_buscada {
+    /* ¿Es la CVU buscada? */
+    position: absolute;
+    width: /*334px*/ 336px;
+    height: 83px;
+    left: 820px;
+    top: 318px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34.1343px;
+    line-height: 40px;
+    color: #FFFFFF;
+}
+
+.rectangulo_64 {
+    /* Rectangle 3 */
+    position: absolute;
+    width: 334.23px;
+    height: 60.45px;
+    left: 820px;
+    top: 374px;
+    background: #FFFFFF;
+    border-radius: 30.0663px;
+}
+
+.si_es_la_cvu {
+    /* Si, es la CVU buscada */
+    position: absolute;
+    width: 285.16px;
+    height: 34.13px;
+    left: 844.89px;
+    top: 387.51px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    text-align: center;
+    color: #004171;
+}
+
+.rectangulo_65 {
+    /* Rectangle 8 */
+    position: absolute;
+    width: 334.23px;
+    height: 60.45px;
+    left: 820px;
+    top: 453px;
+    background: #FFFFFF;
+    border-radius: 30.0663px;
+}
+
+.no_quiero_regresar_alt {
+    /* No, quiero regresar */
+    position: absolute;
+    width: 285.16px;
+    height: 34.13px;
+    left: 844.89px;
+    top: 466.51px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    text-align: center;
+    color: #004171;
+}
+
+.img_86_b {
+    /* image 86 */
+    position: absolute;
+    width: 28.37px;
+    height: 28.37px;
+    left: 647px;
+    top: 263px;
+    background: url(../images/image_86_b.png);
+}
+
+.txt_small_alt_5 {
+    /* Selecciona el tipo de cuotas */
+    position: absolute;
+    width: 226px;
+    height: 14px;
+    left: 350px;
+    top: 363px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.rectangulo_66 {
+    /* image 62 */
+    position: absolute;
+    width: 131px;
+    height: 35px;
+    left: 350px;
+    top: /*424px*/ 389px;
+    border: 1.44214px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.img_99_b {
+    /* image 99 */
+    position: absolute;
+    width: 26.37px;
+    height: 26.37px;
+    left: 355px;
+    top: 393px;
+    background: url(../images/image_99.png);
+}
+
+.mensual_b {
+    /* Mensual */
+    position: absolute;
+    width: 83px;
+    height: 10px;
+    left: 374px;
+    top: 397px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.3056px;
+    line-height: 20px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.rectangulo_67 {
+    /* image 94 */
+    position: absolute;
+    width: 131px;
+    height: 35px;
+    left: 504px;
+    top: /*424px*/ 389px;
+    border: 1.44214px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.img_100_b {
+    /* image 100 */
+    position: absolute;
+    width: 26.37px;
+    height: 26.37px;
+    left: 509px;
+    top: 393px;
+    background: url(../images/image_100.png);
+}
+
+.anual_b {
+    /* Anual */
+    position: absolute;
+    width: 83px;
+    height: 10px;
+    left: 528px;
+    top: 397px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.3056px;
+    line-height: 20px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_small_alt_6 {
+    /* Selecciona la cantidad de cuotas */
+    position: absolute;
+    width: 500px;
+    height: 14px;
+    left: 350px;
+    top: 432px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.textbox_small_7 {
+    /* image 101 */
+    position: absolute;
+    width: 285px;
+    height: 35px;
+    left: 350px;
+    top: /*515px*/ 480px;
+    border: 1.44214px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.img_93_b {
+    /* image 93 */
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 600px;
+    top: 483px;
+    background: url(../images/image_93_b.png);
+}
+
+.txt_transp_small_7 {
+    /* Cuotas... */
+    position: absolute;
+    width: /*83px*/ 240px;
+    height: 10px;
+    left: 370px;
+    top: 488px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.3056px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_small_alt_7 {
+    /* Monto a devolver */
+    position: absolute;
+    width: 226px;
+    height: 14px;
+    left: 350px;
+    top: 523px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.textbox_small_8 {
+    /* image 102 */
+    position: absolute;
+    width: 285px;
+    height: 35px;
+    left: 350px;
+    top: /*585px*/ 550px;
+    border: 1.44214px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.img_115 {
+    /* image 115 */
+    position: absolute;
+    width: 30px;
+    height: 29.89px;
+    left: 600px;
+    top: 553px;
+    background: url(../images/image_115.png);
+}
+
+.txt_transp_small_8 {
+    /* $... */
+    position: absolute;
+    width: /*83px*/ 240px;
+    height: 10px;
+    left: 355px;
+    top: 558px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.3056px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.rectangulo_68 {
+    /* Rectangle 3 */
+    position: absolute;
+    width: 334.23px;
+    height: 60.45px;
+    left: 350px;
+    top: 614px;
+    border: 3px solid #004171;
+    box-sizing: border-box;
+    border-radius: 30.0663px;
+}
+
+.avanzar_alt {
+    /* Avanzar */
+    position: absolute;
+    width: 285.16px;
+    height: 34.13px;
+    left: 374px;
+    top: 627px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    text-align: center;
+    color: #003F70;
+}
+
+.logo_citi_xl {
+    /* image 124 */
+    position: absolute;
+    width: 149px;
+    height: 86px;
+    left: 354px;
+    top: /*434px*/ 454px;
+    background: url(../images/image_124.png);
+    border: 1.79124px solid rgba(0, 63, 111, 0.7);
+    box-sizing: border-box;
+    border-radius: 5.97424px;
+}
+
+.alcannnnn_1_b {
+    /* alcannnnn 1 */
+    position: absolute;
+    width: 42.23px;
+    height: 36px;
+    left: 249px;
+    top: 192px;
+    background: url(../images/alcannnnn_1_b.png);
+}
+
+.txt_small_alt_8 {
+    /* Selecciona el monto ingresado para realizar un plazo fijo, este tendra una rentabilidad del 3% mensual */
+    position: absolute;
+    width: 426px;
+    height: 14px;
+    left: 345px;
+    top: 230px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_small_4 {
+    /* Monto final */
+    position: absolute;
+    width: 226px;
+    height: 14px;
+    left: 345px;
+    top: 377px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.textbox_small_9 {
+    /* image 121 */
+    position: absolute;
+    width: 285px;
+    height: 35px;
+    left: 345px;
+    top: /*439px*/ 415px;
+    border: 1.44214px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.textbox_small_10 {
+    /* image 101 */
+    position: absolute;
+    width: 285px;
+    height: 35px;
+    left: 345px;
+    top: /*294px*/ 259px;
+    border: 1.44214px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.textbox_small_10_b {
+    /* image 102 */
+    position: absolute;
+    width: 285px;
+    height: 35px;
+    left: 345px;
+    top: /*364px*/ 329px;
+    border: 1.44214px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.textbox_small_10_c {
+    /* image 121 */
+    position: absolute;
+    width: 285px;
+    height: 35px;
+    left: 345px;
+    top: /*439px*/ 404px;
+    border: 1.44214px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_small_5 {
+    /* Fecha de final del plazo */
+    position: absolute;
+    width: 226px;
+    height: 14px;
+    left: 345px;
+    top: 302px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_transp_small_9 {
+    /* 27/01/2022 */
+    position: absolute;
+    width: /*148px*/ 240px;
+    height: 10px;
+    left: 350px;
+    top: 337px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.3056px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_transp_small_10 {
+    /* $10900 */
+    position: absolute;
+    width: /*148px*/ 240px;
+    height: 10px;
+    left: 350px;
+    top: 412px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.3056px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.txt_small_6 {
+    /* 27/10/2021 */
+    position: absolute;
+    width: /*140px*/ 240px;
+    height: 10px;
+    left: 350px;
+    top: 267px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.3056px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.img_125 {
+    /* image 93 */
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 595px;
+    top: 262px;
+    background: url(../images/image_125.png);
+}
+
+.img_126 {
+    /* image 115 */
+    position: absolute;
+    width: 30px;
+    height: 29.89px;
+    left: 595px;
+    top: 332px;
+    background: url(../images/image_126.png);
+}
+
+.img_127 {
+    /* image 79 */
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 595px;
+    top: 407px;
+    background: url(../images/image_127.png);
+}
+
+.cuadro_0_0 {
+    /* Tarjeta */
+    position: absolute;
+    width: 75px;
+    height: 14px;
+    left: 391px;
+    top: 256px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.cuadro_0_1 {
+    /* Fecha de inicio */
+    position: absolute;
+    width: 121px;
+    height: 14px;
+    left: 543px;
+    top: 256px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.cuadro_0_2 {
+    /* Fecha final */
+    position: absolute;
+    width: 96px;
+    height: 14px;
+    left: 738px;
+    top: 256px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.cuadro_0_3 {
+    /* Monto inicial */
+    position: absolute;
+    width: 104px;
+    height: 14px;
+    left: 928px;
+    top: 256px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.cuadro_0_3_b {
+    /* Tipo de cuotas */
+    position: absolute;
+    width: 119px;
+    height: 14px;
+    left: 921px;
+    top: 256px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.cuadro_0_4 {
+    /* Monto final */
+    position: absolute;
+    width: 91px;
+    height: 14px;
+    left: 1112px;
+    top: 256px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.cuadro_1_0 {
+    /* VISA XXX-456 */
+    position: absolute;
+    width: 133px;
+    height: 14px;
+    left: 362px;
+    top: 316px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.cuadro_1_1 {
+    /* VISA XXX-456 */
+    position: absolute;
+    width: 133px;
+    height: 14px;
+    left: 362px;
+    top: 368px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.cuadro_1_2 {
+    /* VISA XXX-456 */
+    position: absolute;
+    width: 133px;
+    height: 14px;
+    left: 362px;
+    top: 420px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.cuadro_1_3 {
+    /* VISA XXX-456 */
+    position: absolute;
+    width: 133px;
+    height: 14px;
+    left: 362px;
+    top: 472px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.cuadro_1_4 {
+    /* VISA XXX-456 */
+    position: absolute;
+    width: 133px;
+    height: 14px;
+    left: 362px;
+    top: 524px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.cuadro_2_0 {
+    /* 29/8/2021 */
+    position: absolute;
+    width: 133px;
+    height: 14px;
+    left: 537px;
+    top: 316px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.cuadro_2_1 {
+    /* 17/8/2021 */
+    position: absolute;
+    width: 133px;
+    height: 14px;
+    left: 537px;
+    top: 368px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.cuadro_2_2 {
+    /* 09/8/2021 */
+    position: absolute;
+    width: 133px;
+    height: 14px;
+    left: 537px;
+    top: 420px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.cuadro_2_3 {
+    /* 04/8/2021 */
+    position: absolute;
+    width: 133px;
+    height: 14px;
+    left: 537px;
+    top: 472px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.cuadro_2_4 {
+    /* 31/7/2021 */
+    position: absolute;
+    width: 133px;
+    height: 14px;
+    left: 537px;
+    top: 524px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.cuadro_3_0 {
+    /* 29/8/2021 */
+    position: absolute;
+    width: 133px;
+    height: 14px;
+    left: 723px;
+    top: 316px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.cuadro_3_1 {
+    /* 17/8/2021 */
+    position: absolute;
+    width: 133px;
+    height: 14px;
+    left: 723px;
+    top: 368px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.cuadro_3_2 {
+    /* 09/8/2021 */
+    position: absolute;
+    width: 133px;
+    height: 14px;
+    left: 723px;
+    top: 420px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.cuadro_3_3 {
+    /* 04/8/2021 */
+    position: absolute;
+    width: 133px;
+    height: 14px;
+    left: 723px;
+    top: 472px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.cuadro_3_4 {
+    /* 31/7/2021 */
+    position: absolute;
+    width: 133px;
+    height: 14px;
+    left: 723px;
+    top: 524px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.cuadro_4_0 {
+    /* $231 */
+    position: absolute;
+    width: 63px;
+    height: 14px;
+    left: 948px;
+    top: 316px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.cuadro_4_1 {
+    /* $20 */
+    position: absolute;
+    width: 64px;
+    height: 14px;
+    left: 948px;
+    top: 368px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.cuadro_4_2 {
+    /* $12430 */
+    position: absolute;
+    width: 98px;
+    height: 14px;
+    left: 931px;
+    top: 420px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.cuadro_4_3 {
+    /* $12 */
+    position: absolute;
+    width: 64px;
+    height: 14px;
+    left: 948px;
+    top: 472px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.cuadro_4_4 {
+    /* $300.43 */
+    position: absolute;
+    width: 118px;
+    height: 14px;
+    left: 921px;
+    top: 524px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.cuadro_5_0 {
+    /* $231 */
+    position: absolute;
+    width: 63px;
+    height: 14px;
+    left: 1126px;
+    top: 316px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.cuadro_5_1 {
+    /* $20 */
+    position: absolute;
+    width: 64px;
+    height: 14px;
+    left: 1126px;
+    top: 368px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.cuadro_5_2 {
+    /* $12430 */
+    position: absolute;
+    width: 98px;
+    height: 14px;
+    left: 1109px;
+    top: 420px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.cuadro_5_3 {
+    /* $12 */
+    position: absolute;
+    width: 64px;
+    height: 14px;
+    left: 1126px;
+    top: 472px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.cuadro_5_4 {
+    /* $300.43 */
+    position: absolute;
+    width: 118px;
+    height: 14px;
+    left: 1099px;
+    top: 524px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 65, 113, 0.7);
+}
+
+.img_128 {
+    /* image 123 */
+    position: absolute;
+    width: 45.51px;
+    height: 45.51px;
+    left: 701px;
+    top: /*240px*/ 239px;
+    background: url(../images/image_128.png);
+}
+
+.txt_small_alt_9 {
+    /* Selecciona el CBU de la persona que se le realizara la transferencia */
+    position: absolute;
+    width: 288px;
+    height: 14px;
+    left: 345px;
+    top: 230px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.rectangulo_69 {
+    /* Rectangle 3 */
+    position: absolute;
+    width: 334.23px;
+    height: 60.45px;
+    left: 350px;
+    top: 672px;
+    border: 3px solid #004171;
+    box-sizing: border-box;
+    border-radius: 30.0663px;
+}
+
+.avanzar_alt_b {
+    /* Avanzar */
+    position: absolute;
+    width: 285.16px;
+    height: 34.13px;
+    left: 374px;
+    top: 685px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    text-align: center;
+    color: #003F70;
+}
+
+.img_121_b {
+    /* image 121 */
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: /*328px*/ 316px;
+    top: 463px;
+    background: url(../images/image_121.png);
+}
+
+.textbox_1_d {
+    /* image 46 */
+
+    position: absolute;
+    width: 359px;
+    height: 51px;
+    left: 345px;
+    top: /*288px*/ 237px;
+    border: 2.1334px solid #003E6E;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.txt_transp_1_e {
+    /* David Perez */
+
+    position: absolute;
+    width: /*546.86px*/ 300px;
+    height: 13.51px;
+    left: 352.72px;
+    top: 248.19px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.6008px;
+    line-height: 30px;
+    text-decoration-line: underline;
+    color: rgba(0, 63, 111, 0.7);
+}
+
+.rectangulo_70 {
+    /* Rectangle 9 */
+
+    position: absolute;
+    width: 322.49px;
+    height: 83.99px;
+    left: 887.47px;
+    top: 183.85px;
+    border: 5.38387px solid #FF0F00;
+    box-sizing: border-box;
+    border-radius: 50.8776px;
+}
+
+.rectangulo_71 {
+    /* Rectangle 10 */
+
+    position: absolute;
+    width: 322.49px;
+    height: 83.99px;
+    left: 887.47px;
+    top: 294.07px;
+    border: 5.38387px solid #FF0F00;
+    box-sizing: border-box;
+    border-radius: 50.8776px;
+}
+
+.txt_incorrecto {
+    /* Usuario y/o contraseña incorrectas */
+
+    position: absolute;
+    width: 321px;
+    height: 20px;
+    left: 890px;
+    top: 379px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19.3819px;
+    line-height: 23px;
+    text-align: center;
+    color: /*#FF0F00*/ #FFFFFF;
+}
+
+.img_121_c {
+    /* image 121 */
+
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 328px;
+    top: 463px;
+    background: url(../images/image_121_c.png);
+}
+
+.txt_verifique_cbu {
+    /* Verifique si el CBU ingresado ha sido el correcto e intente nuevamente */
+
+    position: absolute;
+    width: 473px;
+    height: 34px;
+    left: 32px;
+    top: 237px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    color: #FFFFFF;
+}
+
+.rectangulo_72 {
+    /* Rectangle 8 */
+
+    position: absolute;
+    width: 334.23px;
+    height: 60.45px;
+    left: 32px;
+    top: 354px;
+    background: #FFFFFF;
+    border-radius: 30.0663px;
+}
+
+.txt_regresar {
+    /* Regresar */
+
+    position: absolute;
+    width: 285.16px;
+    height: 34.13px;
+    left: 56.89px;
+    top: 367.51px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.1773px;
+    line-height: 33px;
+    text-align: center;
+    color: #004171;
+}
